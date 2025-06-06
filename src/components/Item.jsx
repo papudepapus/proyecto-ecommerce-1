@@ -2,11 +2,15 @@ import React from "react";
 
 function Item({ producto }) {
   return (
-    <div>
+    <div className="producto">
       <img src={producto.image} alt={producto.title} />
-      <h2>{producto.title}</h2>
-      <p>{producto.description}</p>
-      <p>${producto.price}</p>
+      <div>
+        <h4>{producto.title}</h4>
+        <p>Precio: ${producto.price}</p>
+        <a href={`/item/${producto.id}`} className="ver-mas">
+          Ver más
+        </a>
+      </div>
     </div>
   );
 }
