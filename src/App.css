@@ -182,3 +182,25 @@
   border: 2px solid var(--clr-main);
   outline: 2px solid var(--clr-main);
 }
+
+.nosotros-container {
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: #f8f9fa; /* Un tono gris claro para que resalte en el fondo blanco */
+  border-radius: 10px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.nosotros-container h2 {
+  font-size: 28px;
+  color: #0056b3; /* Azul fuerte que combina con el navbar */
+  margin-bottom: 20px;
+}
+
+.nosotros-container p {
+  font-size: 18px;
+  color: #333; /* Negro ligeramente más suave para una lectura cómoda */
+  line-height: 1.6;
+}

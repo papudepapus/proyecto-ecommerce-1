@@ -1,31 +1,42 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 function Navbar() {
   return (
     <nav className="navbar">
-      <a href="" className="logo">
+      <Link to="/" className="logo">
         <h1>E-commerce</h1>
-      </a>
+      </Link>
       <ul className="menu">
         <li>
-          <a href="#" className="menu-link">
+          <Link to="/" className="menu-link">
             Inicio
-          </a>
+          </Link>
         </li>
         <li>
-          <a href="#" className="menu-link">
+          <Link to="/nosotros" className="menu-link">
             Nosotros
-          </a>
+          </Link>
         </li>
         <li>
-          <a href="#" className="menu-link">
-            Producto
-          </a>
+          <Link to="/productos" className="menu-link">
+            Productos
+          </Link>
         </li>
         <li>
-          <a href="#" className="menu-link">
-            Contactos
-          </a>
+          <Link to="/productos/Accessories" className="menu-link">
+            Accesorios
+          </Link>
+        </li>
+        <li>
+          <Link to="/productos/Books" className="menu-link">
+            Libros
+          </Link>
+        </li>
+        <li>
+          <Link to="/productos/Clothing" className="menu-link">
+            Ropa
+          </Link>
         </li>
       </ul>
     </nav>
