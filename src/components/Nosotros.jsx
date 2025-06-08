@@ -1,6 +1,18 @@
-import React from "react";
+import React, { useEffect } from "react";
 
 function Nosotros() {
+  useEffect(() => {
+    const clickear = () => {
+      console.log("Click");
+    };
+
+    window.addEventListener("click", clickear);
+
+    return () => {
+      window.removeEventListener("click", clickear);
+    };
+  }, []);
+
   return (
     <div className="nosotros-container">
       <h2>Sobre Nosotros</h2>

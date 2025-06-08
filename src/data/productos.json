@@ -5,7 +5,8 @@
     "image": "http://dummyimage.com/234x100.png/ff4444/ffffff",
     "price": 1.99,
     "description": "Sweetened powder for refreshing lemonade.",
-    "category": "Food - Beverages"
+    "category": "Food - Beverages",
+    "stock": 23
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "image": "http://dummyimage.com/227x100.png/ff4444/ffffff",
     "price": 3.79,
     "description": "A seasonal creamer that adds pumpkin spice flavor to coffee or tea.",
-    "category": "Food - Beverages"
+    "category": "Food - Beverages",
+    "stock": 28
   },
   {
     "id": 3,
@@ -21,7 +23,8 @@
     "image": "http://dummyimage.com/222x100.png/dddddd/000000",
     "price": 59.99,
     "description": "Instant hot water dispenser for tea and cooking.",
-    "category": "Kitchen"
+    "category": "Kitchen",
+    "stock": 22
   },
   {
     "id": 4,
@@ -29,7 +32,8 @@
     "image": "http://dummyimage.com/243x100.png/cc0000/ffffff",
     "price": 25,
     "description": "Non-slip yoga mat for optimal grip and comfort.",
-    "category": "Fitness"
+    "category": "Fitness",
+    "stock": 16
   },
   {
     "id": 5,
@@ -37,7 +41,8 @@
     "image": "http://dummyimage.com/124x100.png/cc0000/ffffff",
     "price": 3.99,
     "description": "Rich cocoa powder for baking and chocolate recipes.",
-    "category": "Food - Baking"
+    "category": "Food - Baking",
+    "stock": 6
   },
   {
     "id": 6,
@@ -45,7 +50,8 @@
     "image": "http://dummyimage.com/156x100.png/5fa2dd/ffffff",
     "price": 4.99,
     "description": "Crunchy granola made with oats, almonds, and coconut flakes.",
-    "category": "Food - Breakfast"
+    "category": "Food - Breakfast",
+    "stock": 12
   },
   {
     "id": 7,
@@ -53,7 +59,8 @@
     "image": "http://dummyimage.com/194x100.png/ff4444/ffffff",
     "price": 49.99,
     "description": "HD streaming device for accessing popular services.",
-    "category": "Electronics"
+    "category": "Electronics",
+    "stock": 23
   },
   {
     "id": 8,
@@ -61,7 +68,8 @@
     "image": "http://dummyimage.com/142x100.png/dddddd/000000",
     "price": 49.99,
     "description": "Comfy pet bed with washable cover for easy cleaning.",
-    "category": "Pets"
+    "category": "Pets",
+    "stock": 25
   },
   {
     "id": 9,
@@ -69,7 +77,8 @@
     "image": "http://dummyimage.com/201x100.png/cc0000/ffffff",
     "price": 14.99,
     "description": "Convenient strap for carrying yoga mats to class.",
-    "category": "Fitness"
+    "category": "Fitness",
+    "stock": 20
   },
   {
     "id": 10,
@@ -77,7 +86,8 @@
     "image": "http://dummyimage.com/122x100.png/cc0000/ffffff",
     "price": 12.99,
     "description": "Wild-caught salmon filets, perfect for grilling or baking.",
-    "category": "Food - Seafood"
+    "category": "Food - Seafood",
+    "stock": 28
   },
   {
     "id": 11,
@@ -85,7 +95,8 @@
     "image": "http://dummyimage.com/126x100.png/cc0000/ffffff",
     "price": 19.99,
     "description": "Charming frame to showcase your favorite photos.",
-    "category": "Home"
+    "category": "Home",
+    "stock": 17
   },
   {
     "id": 12,
@@ -93,7 +104,8 @@
     "image": "http://dummyimage.com/140x100.png/cc0000/ffffff",
     "price": 7.99,
     "description": "Bell peppers filled with quinoa and vegetables.",
-    "category": "Food - Prepared Meals"
+    "category": "Food - Prepared Meals",
+    "stock": 20
   },
   {
     "id": 13,
@@ -101,7 +113,8 @@
     "image": "http://dummyimage.com/120x100.png/cc0000/ffffff",
     "price": 3.99,
     "description": "Sweet and juicy strawberries, perfect for desserts.",
-    "category": "Food - Produce"
+    "category": "Food - Produce",
+    "stock": 14
   },
   {
     "id": 14,
@@ -109,7 +122,8 @@
     "image": "http://dummyimage.com/245x100.png/ff4444/ffffff",
     "price": 34.99,
     "description": "Adjustable LED desk light with brightness settings.",
-    "category": "Home"
+    "category": "Home",
+    "stock": 15
   },
   {
     "id": 15,
@@ -117,7 +131,8 @@
     "image": "http://dummyimage.com/248x100.png/ff4444/ffffff",
     "price": 39.99,
     "description": "Rotating spice rack with 20 spice jars.",
-    "category": "Kitchen"
+    "category": "Kitchen",
+    "stock": 4
   },
   {
     "id": 16,
@@ -125,7 +140,8 @@
     "image": "http://dummyimage.com/229x100.png/ff4444/ffffff",
     "price": 4.29,
     "description": "Frozen onion rings, crispy and ready to bake.",
-    "category": "Food - Frozen Foods"
+    "category": "Food - Frozen Foods",
+    "stock": 4
   },
   {
     "id": 17,
@@ -133,7 +149,8 @@
     "image": "http://dummyimage.com/243x100.png/cc0000/ffffff",
     "price": 19.99,
     "description": "Reusable mat that prevents food from sticking to the grill.",
-    "category": "Outdoor"
+    "category": "Outdoor",
+    "stock": 23
   },
   {
     "id": 18,
@@ -141,7 +158,8 @@
     "image": "http://dummyimage.com/153x100.png/5fa2dd/ffffff",
     "price": 19.99,
     "description": "Set of three aromatic candles with various scents.",
-    "category": "Home"
+    "category": "Home",
+    "stock": 10
   },
   {
     "id": 19,
@@ -149,7 +167,8 @@
     "image": "http://dummyimage.com/229x100.png/cc0000/ffffff",
     "price": 3.49,
     "description": "Refreshing green tea infused with peach, perfect for a hot day.",
-    "category": "Food - Beverages"
+    "category": "Food - Beverages",
+    "stock": 23
   },
   {
     "id": 20,
@@ -157,7 +176,8 @@
     "image": "http://dummyimage.com/230x100.png/5fa2dd/ffffff",
     "price": 29.99,
     "description": "Lightweight hair dryer with multiple speed settings.",
-    "category": "Beauty"
+    "category": "Beauty",
+    "stock": 10
   },
   {
     "id": 21,
@@ -165,7 +185,8 @@
     "image": "http://dummyimage.com/243x100.png/5fa2dd/ffffff",
     "price": 89.99,
     "description": "Stabilizing gimbal for smooth video recording.",
-    "category": "Electronics"
+    "category": "Electronics",
+    "stock": 21
   },
   {
     "id": 22,
@@ -173,7 +194,8 @@
     "image": "http://dummyimage.com/106x100.png/5fa2dd/ffffff",
     "price": 4.29,
     "description": "Plant-based mix for a rich chocolate cake.",
-    "category": "Food - Baking"
+    "category": "Food - Baking",
+    "stock": 14
   },
   {
     "id": 23,
@@ -181,7 +203,8 @@
     "image": "http://dummyimage.com/245x100.png/ff4444/ffffff",
     "price": 79.99,
     "description": "Cordless handheld vacuum for quick cleanups.",
-    "category": "Home Appliances"
+    "category": "Home Appliances",
+    "stock": 30
   },
   {
     "id": 24,
@@ -189,7 +212,8 @@
     "image": "http://dummyimage.com/204x100.png/5fa2dd/ffffff",
     "price": 4.29,
     "description": "Creamy chickpea dip, perfect for veggies or pita.",
-    "category": "Food - Snacks"
+    "category": "Food - Snacks",
+    "stock": 4
   },
   {
     "id": 25,
@@ -197,7 +221,8 @@
     "image": "http://dummyimage.com/196x100.png/ff4444/ffffff",
     "price": 29.99,
     "description": "Affordable fitness tracker with heart rate monitor.",
-    "category": "Fitness"
+    "category": "Fitness",
+    "stock": 23
   },
   {
     "id": 26,
@@ -205,7 +230,8 @@
     "image": "http://dummyimage.com/128x100.png/ff4444/ffffff",
     "price": 3.49,
     "description": "Creamy cheese with a spicy kick, perfect for sandwiches.",
-    "category": "Food - Dairy"
+    "category": "Food - Dairy",
+    "stock": 30
   },
   {
     "id": 27,
@@ -213,7 +239,8 @@
     "image": "http://dummyimage.com/226x100.png/cc0000/ffffff",
     "price": 6.89,
     "description": "Everything you need to make melt-in-your-mouth cinnamon rolls at home.",
-    "category": "Food - Baking"
+    "category": "Food - Baking",
+    "stock": 1
   },
   {
     "id": 28,
@@ -221,7 +248,8 @@
     "image": "http://dummyimage.com/201x100.png/ff4444/ffffff",
     "price": 34.99,
     "description": "Spacious duffle bag for weekend getaways.",
-    "category": "Travel"
+    "category": "Travel",
+    "stock": 28
   },
   {
     "id": 29,
@@ -229,7 +257,8 @@
     "image": "http://dummyimage.com/171x100.png/dddddd/000000",
     "price": 29.99,
     "description": "Portable folding camping chair with cup holder.",
-    "category": "Outdoor"
+    "category": "Outdoor",
+    "stock": 12
   },
   {
     "id": 30,
@@ -237,7 +266,8 @@
     "image": "http://dummyimage.com/114x100.png/dddddd/000000",
     "price": 9.99,
     "description": "Space-saving cup that folds flat for easy storage.",
-    "category": "Outdoor"
+    "category": "Outdoor",
+    "stock": 23
   },
   {
     "id": 31,
@@ -245,7 +275,8 @@
     "image": "http://dummyimage.com/124x100.png/cc0000/ffffff",
     "price": 34.99,
     "description": "Custom cutting board made from high-quality wood.",
-    "category": "Kitchen"
+    "category": "Kitchen",
+    "stock": 20
   },
   {
     "id": 32,
@@ -253,7 +284,8 @@
     "image": "http://dummyimage.com/222x100.png/5fa2dd/ffffff",
     "price": 34.99,
     "description": "Complete set of gardening tools for all your needs.",
-    "category": "Garden"
+    "category": "Garden",
+    "stock": 18
   },
   {
     "id": 33,
@@ -261,7 +293,8 @@
     "image": "http://dummyimage.com/228x100.png/dddddd/000000",
     "price": 79.99,
     "description": "Wi-Fi-enabled digital frame for displaying photos.",
-    "category": "Home"
+    "category": "Home",
+    "stock": 3
   },
   {
     "id": 34,
@@ -269,7 +302,8 @@
     "image": "http://dummyimage.com/150x100.png/5fa2dd/ffffff",
     "price": 2.39,
     "description": "Fragrant jasmine rice, perfect as a side dish.",
-    "category": "Food - Grains"
+    "category": "Food - Grains",
+    "stock": 15
   },
   {
     "id": 35,
@@ -277,7 +311,8 @@
     "image": "http://dummyimage.com/234x100.png/5fa2dd/ffffff",
     "price": 34.99,
     "description": "Quick and easy way to remove wrinkles from clothes.",
-    "category": "Home"
+    "category": "Home",
+    "stock": 15
   },
   {
     "id": 36,
@@ -285,7 +320,8 @@
     "image": "http://dummyimage.com/188x100.png/cc0000/ffffff",
     "price": 39.99,
     "description": "Cordless electric knife for effortless slicing.",
-    "category": "Kitchen"
+    "category": "Kitchen",
+    "stock": 15
   },
   {
     "id": 37,
@@ -293,7 +329,8 @@
     "image": "http://dummyimage.com/157x100.png/5fa2dd/ffffff",
     "price": 1.29,
     "description": "Instant mix for creamy vanilla pudding.",
-    "category": "Food - Baking"
+    "category": "Food - Baking",
+    "stock": 24
   },
   {
     "id": 38,
@@ -301,7 +338,8 @@
     "image": "http://dummyimage.com/177x100.png/5fa2dd/ffffff",
     "price": 24.99,
     "description": "Stylish tote to keep wine bottles chilled while traveling.",
-    "category": "Accessories"
+    "category": "Accessories",
+    "stock": 24
   },
   {
     "id": 39,
@@ -309,7 +347,8 @@
     "image": "http://dummyimage.com/207x100.png/ff4444/ffffff",
     "price": 34.99,
     "description": "Water-resistant blanket for picnics and outdoor events.",
-    "category": "Outdoor"
+    "category": "Outdoor",
+    "stock": 5
   },
   {
     "id": 40,
@@ -317,7 +356,8 @@
     "image": "http://dummyimage.com/237x100.png/dddddd/000000",
     "price": 29.99,
     "description": "Lightweight and durable hammock for relaxing in nature.",
-    "category": "Outdoor"
+    "category": "Outdoor",
+    "stock": 11
   },
   {
     "id": 41,
@@ -325,7 +365,8 @@
     "image": "http://dummyimage.com/207x100.png/ff4444/ffffff",
     "price": 3.49,
     "description": "Flavorful dressing made with miso paste",
-    "category": "Food - Dressings"
+    "category": "Food - Dressings",
+    "stock": 13
   },
   {
     "id": 42,
@@ -333,7 +374,8 @@
     "image": "http://dummyimage.com/105x100.png/dddddd/000000",
     "price": 2.99,
     "description": "Crispy roasted chickpeas seasoned to perfection",
-    "category": "Food - Snacks"
+    "category": "Food - Snacks",
+    "stock": 28
   },
   {
     "id": 43,
@@ -341,7 +383,8 @@
     "image": "http://dummyimage.com/185x100.png/cc0000/ffffff",
     "price": 6.49,
     "description": "Crispy chicken bites, perfect for dipping.",
-    "category": "Food - Frozen"
+    "category": "Food - Frozen",
+    "stock": 5
   },
   {
     "id": 44,
@@ -349,7 +392,8 @@
     "image": "http://dummyimage.com/213x100.png/5fa2dd/ffffff",
     "price": 24.99,
     "description": "Quote wall art to inspire and motivate.",
-    "category": "Home"
+    "category": "Home",
+    "stock": 3
   },
   {
     "id": 45,
@@ -357,7 +401,8 @@
     "image": "http://dummyimage.com/108x100.png/5fa2dd/ffffff",
     "price": 19.99,
     "description": "Soft cotton graphic tee available in various designs.",
-    "category": "Clothing"
+    "category": "Clothing",
+    "stock": 11
   },
   {
     "id": 46,
@@ -365,7 +410,8 @@
     "image": "http://dummyimage.com/231x100.png/5fa2dd/ffffff",
     "price": 4.99,
     "description": "Cold pasta salad tossed with pesto and fresh vegetables.",
-    "category": "Food - Prepared Foods"
+    "category": "Food - Prepared Foods",
+    "stock": 20
   },
   {
     "id": 47,
@@ -373,7 +419,8 @@
     "image": "http://dummyimage.com/140x100.png/ff4444/ffffff",
     "price": 29.99,
     "description": "Lightweight cover-up perfect for the beach, with a breezy design.",
-    "category": "Clothing - Swimwear"
+    "category": "Clothing - Swimwear",
+    "stock": 16
   },
   {
     "id": 48,
@@ -381,7 +428,8 @@
     "image": "http://dummyimage.com/107x100.png/dddddd/000000",
     "price": 14.99,
     "description": "Space-saving colander for rinsing fruits and vegetables.",
-    "category": "Kitchen"
+    "category": "Kitchen",
+    "stock": 3
   },
   {
     "id": 49,
@@ -389,7 +437,8 @@
     "image": "http://dummyimage.com/224x100.png/ff4444/ffffff",
     "price": 2.59,
     "description": "Creamy ranch dressing, perfect for salads and dips.",
-    "category": "Food - Condiments"
+    "category": "Food - Condiments",
+    "stock": 23
   },
   {
     "id": 50,
@@ -397,7 +446,8 @@
     "image": "http://dummyimage.com/177x100.png/5fa2dd/ffffff",
     "price": 1.79,
     "description": "Quick and easy side dish with buttery flavor.",
-    "category": "Food - Sides"
+    "category": "Food - Sides",
+    "stock": 9
   },
   {
     "id": 51,
@@ -405,7 +455,8 @@
     "image": "http://dummyimage.com/246x100.png/5fa2dd/ffffff",
     "price": 3.49,
     "description": "A light and tangy dressing with poppy seeds, perfect for salads.",
-    "category": "Food - Condiments"
+    "category": "Food - Condiments",
+    "stock": 23
   },
   {
     "id": 52,
@@ -413,7 +464,8 @@
     "image": "http://dummyimage.com/197x100.png/dddddd/000000",
     "price": 22.99,
     "description": "DIY kit to make your own elderberry syrup.",
-    "category": "Health"
+    "category": "Health",
+    "stock": 5
   },
   {
     "id": 53,
@@ -421,7 +473,8 @@
     "image": "http://dummyimage.com/209x100.png/cc0000/ffffff",
     "price": 14.99,
     "description": "Compact USB fan for personal cooling.",
-    "category": "Home"
+    "category": "Home",
+    "stock": 28
   },
   {
     "id": 54,
@@ -429,7 +482,8 @@
     "image": "http://dummyimage.com/125x100.png/5fa2dd/ffffff",
     "price": 29.99,
     "description": "Portable ring light that enhances your photos with perfect lighting.",
-    "category": "Photography"
+    "category": "Photography",
+    "stock": 14
   },
   {
     "id": 55,
@@ -437,7 +491,8 @@
     "image": "http://dummyimage.com/110x100.png/ff4444/ffffff",
     "price": 22.99,
     "description": "Portable rechargeable warmer for cold days.",
-    "category": "Accessories"
+    "category": "Accessories",
+    "stock": 5
   },
   {
     "id": 56,
@@ -445,7 +500,8 @@
     "image": "http://dummyimage.com/161x100.png/ff4444/ffffff",
     "price": 49.99,
     "description": "Cook rice and steam vegetables simultaneously for healthy meals.",
-    "category": "Kitchen"
+    "category": "Kitchen",
+    "stock": 13
   },
   {
     "id": 57,
@@ -453,7 +509,8 @@
     "image": "http://dummyimage.com/203x100.png/cc0000/ffffff",
     "price": 39.99,
     "description": "Rotating spice rack with 20 spice jars.",
-    "category": "Kitchen"
+    "category": "Kitchen",
+    "stock": 23
   },
   {
     "id": 58,
@@ -461,7 +518,8 @@
     "image": "http://dummyimage.com/218x100.png/5fa2dd/ffffff",
     "price": 39.99,
     "description": "A colorful printed maxi skirt for a bohemian look.",
-    "category": "Clothing - Skirts"
+    "category": "Clothing - Skirts",
+    "stock": 5
   },
   {
     "id": 59,
@@ -469,7 +527,8 @@
     "image": "http://dummyimage.com/116x100.png/cc0000/ffffff",
     "price": 89.99,
     "description": "Indoor Wi-Fi camera for home security.",
-    "category": "Smart Home"
+    "category": "Smart Home",
+    "stock": 29
   },
   {
     "id": 60,
@@ -477,7 +536,8 @@
     "image": "http://dummyimage.com/222x100.png/ff4444/ffffff",
     "price": 4.29,
     "description": "Delicate green tea leaves for a refreshing beverage.",
-    "category": "Food - Beverages"
+    "category": "Food - Beverages",
+    "stock": 21
   },
   {
     "id": 61,
@@ -485,7 +545,8 @@
     "image": "http://dummyimage.com/141x100.png/cc0000/ffffff",
     "price": 17.99,
     "description": "Beautiful wall calendar for organizing your schedule.",
-    "category": "Home"
+    "category": "Home",
+    "stock": 7
   },
   {
     "id": 62,
@@ -493,7 +554,8 @@
     "image": "http://dummyimage.com/205x100.png/ff4444/ffffff",
     "price": 27.99,
     "description": "Lightweight hammock for easy setup anywhere.",
-    "category": "Outdoor"
+    "category": "Outdoor",
+    "stock": 3
   },
   {
     "id": 63,
@@ -501,7 +563,8 @@
     "image": "http://dummyimage.com/121x100.png/cc0000/ffffff",
     "price": 34.99,
     "description": "Peel and stick wallpaper for easy home decor changes.",
-    "category": "Home"
+    "category": "Home",
+    "stock": 14
   },
   {
     "id": 64,
@@ -509,7 +572,8 @@
     "image": "http://dummyimage.com/133x100.png/5fa2dd/ffffff",
     "price": 9.49,
     "description": "Tender and juicy pork chops, perfect on the grill.",
-    "category": "Food - Meat"
+    "category": "Food - Meat",
+    "stock": 2
   },
   {
     "id": 65,
@@ -517,7 +581,8 @@
     "image": "http://dummyimage.com/141x100.png/ff4444/ffffff",
     "price": 29.99,
     "description": "Rechargeable electric wine opener for effortless uncorking.",
-    "category": "Kitchen"
+    "category": "Kitchen",
+    "stock": 6
   },
   {
     "id": 66,
@@ -525,7 +590,8 @@
     "image": "http://dummyimage.com/136x100.png/cc0000/ffffff",
     "price": 3.49,
     "description": "Fresh seedless red grapes, perfect for snacking.",
-    "category": "Food - Produce"
+    "category": "Food - Produce",
+    "stock": 26
   },
   {
     "id": 67,
@@ -533,7 +599,8 @@
     "image": "http://dummyimage.com/187x100.png/ff4444/ffffff",
     "price": 2.99,
     "description": "Creamy dip made with real onions and spices, great for chips and veggies.",
-    "category": "Food - Condiments"
+    "category": "Food - Condiments",
+    "stock": 2
   },
   {
     "id": 68,
@@ -541,7 +608,8 @@
     "image": "http://dummyimage.com/186x100.png/dddddd/000000",
     "price": 3.99,
     "description": "Stone-ground mustard infused with craft beer for a gourmet touch.",
-    "category": "Food - Condiments"
+    "category": "Food - Condiments",
+    "stock": 4
   },
   {
     "id": 69,
@@ -549,7 +617,8 @@
     "image": "http://dummyimage.com/147x100.png/dddddd/000000",
     "price": 3.79,
     "description": "A sweet and tangy dressing made with figs and balsamic vinegar, great on salads.",
-    "category": "Food - Condiments"
+    "category": "Food - Condiments",
+    "stock": 4
   },
   {
     "id": 70,
@@ -557,7 +626,8 @@
     "image": "http://dummyimage.com/200x100.png/dddddd/000000",
     "price": 79.99,
     "description": "Wi-Fi camera with motion detection for home security.",
-    "category": "Smart Home"
+    "category": "Smart Home",
+    "stock": 15
   },
   {
     "id": 71,
@@ -565,7 +635,8 @@
     "image": "http://dummyimage.com/241x100.png/dddddd/000000",
     "price": 1.49,
     "description": "Canned diced tomatoes, great base for sauces and soups.",
-    "category": "Food - Canned Goods"
+    "category": "Food - Canned Goods",
+    "stock": 28
   },
   {
     "id": 72,
@@ -573,7 +644,8 @@
     "image": "http://dummyimage.com/164x100.png/cc0000/ffffff",
     "price": 39.99,
     "description": "Adjustable lamp with multiple brightness levels and colors.",
-    "category": "Office"
+    "category": "Office",
+    "stock": 30
   },
   {
     "id": 73,
@@ -581,7 +653,8 @@
     "image": "http://dummyimage.com/136x100.png/dddddd/000000",
     "price": 29.99,
     "description": "Soft flannel shirt with a timeless plaid pattern, perfect for layering.",
-    "category": "Clothing - Tops"
+    "category": "Clothing - Tops",
+    "stock": 24
   },
   {
     "id": 74,
@@ -589,7 +662,8 @@
     "image": "http://dummyimage.com/147x100.png/cc0000/ffffff",
     "price": 49.99,
     "description": "Genuine leather wallet with multiple compartments.",
-    "category": "Accessories"
+    "category": "Accessories",
+    "stock": 10
   },
   {
     "id": 75,
@@ -597,7 +671,8 @@
     "image": "http://dummyimage.com/208x100.png/ff4444/ffffff",
     "price": 3.59,
     "description": "A spicy glaze made with sriracha and honey, perfect for meats.",
-    "category": "Food - Sauces"
+    "category": "Food - Sauces",
+    "stock": 18
   },
   {
     "id": 76,
@@ -605,7 +680,8 @@
     "image": "http://dummyimage.com/194x100.png/cc0000/ffffff",
     "price": 2.49,
     "description": "Low-calorie rice cake for snacks.",
-    "category": "Food - Snacks"
+    "category": "Food - Snacks",
+    "stock": 20
   },
   {
     "id": 77,
@@ -613,7 +689,8 @@
     "image": "http://dummyimage.com/164x100.png/ff4444/ffffff",
     "price": 14.99,
     "description": "Space-saving broom holder for organized cleaning supplies.",
-    "category": "Home"
+    "category": "Home",
+    "stock": 21
   },
   {
     "id": 78,
@@ -621,7 +698,8 @@
     "image": "http://dummyimage.com/233x100.png/cc0000/ffffff",
     "price": 24.99,
     "description": "Easily opens jar lids and bottle caps with one touch.",
-    "category": "Kitchen"
+    "category": "Kitchen",
+    "stock": 14
   },
   {
     "id": 79,
@@ -629,7 +707,8 @@
     "image": "http://dummyimage.com/223x100.png/5fa2dd/ffffff",
     "price": 3.29,
     "description": "A zesty seasoning for meats and vegetables",
-    "category": "Food - Seasonings"
+    "category": "Food - Seasonings",
+    "stock": 28
   },
   {
     "id": 80,
@@ -637,7 +716,8 @@
     "image": "http://dummyimage.com/246x100.png/dddddd/000000",
     "price": 39.99,
     "description": "Foldable table for working with laptops anywhere.",
-    "category": "Office"
+    "category": "Office",
+    "stock": 22
   },
   {
     "id": 81,
@@ -645,7 +725,8 @@
     "image": "http://dummyimage.com/236x100.png/cc0000/ffffff",
     "price": 29.99,
     "description": "Portable ring light that enhances your photos with perfect lighting.",
-    "category": "Photography"
+    "category": "Photography",
+    "stock": 26
   },
   {
     "id": 82,
@@ -653,7 +734,8 @@
     "image": "http://dummyimage.com/187x100.png/ff4444/ffffff",
     "price": 19.99,
     "description": "Stackable measuring cups made from stainless steel.",
-    "category": "Kitchen"
+    "category": "Kitchen",
+    "stock": 4
   },
   {
     "id": 83,
@@ -661,7 +743,8 @@
     "image": "http://dummyimage.com/130x100.png/dddddd/000000",
     "price": 4.29,
     "description": "Frozen onion rings, crispy and ready to bake.",
-    "category": "Food - Frozen Foods"
+    "category": "Food - Frozen Foods",
+    "stock": 7
   },
   {
     "id": 84,
@@ -669,7 +752,8 @@
     "image": "http://dummyimage.com/208x100.png/cc0000/ffffff",
     "price": 2.99,
     "description": "Spicy and tangy chili sauce for adding heat to any dish.",
-    "category": "Food - Condiments"
+    "category": "Food - Condiments",
+    "stock": 16
   },
   {
     "id": 85,
@@ -677,7 +761,8 @@
     "image": "http://dummyimage.com/197x100.png/dddddd/000000",
     "price": 2.49,
     "description": "Firm tofu, a great plant-based protein option.",
-    "category": "Food - Meat Alternatives"
+    "category": "Food - Meat Alternatives",
+    "stock": 20
   },
   {
     "id": 86,
@@ -685,7 +770,8 @@
     "image": "http://dummyimage.com/196x100.png/5fa2dd/ffffff",
     "price": 3.29,
     "description": "A soothing tea blend with turmeric and ginger for wellness.",
-    "category": "Food - Beverages"
+    "category": "Food - Beverages",
+    "stock": 22
   },
   {
     "id": 87,
@@ -693,7 +779,8 @@
     "image": "http://dummyimage.com/198x100.png/dddddd/000000",
     "price": 6.99,
     "description": "Marinated chicken thighs with smoked paprika for a smoky flavor.",
-    "category": "Food - Meat"
+    "category": "Food - Meat",
+    "stock": 4
   },
   {
     "id": 88,
@@ -701,7 +788,8 @@
     "image": "http://dummyimage.com/144x100.png/cc0000/ffffff",
     "price": 9.99,
     "description": "Variety pack of sticky notes in different colors and sizes.",
-    "category": "Office"
+    "category": "Office",
+    "stock": 6
   },
   {
     "id": 89,
@@ -709,7 +797,8 @@
     "image": "http://dummyimage.com/233x100.png/ff4444/ffffff",
     "price": 29.99,
     "description": "Set of two yoga blocks for increased stability and support.",
-    "category": "Fitness"
+    "category": "Fitness",
+    "stock": 2
   },
   {
     "id": 90,
@@ -717,7 +806,8 @@
     "image": "http://dummyimage.com/162x100.png/ff4444/ffffff",
     "price": 22.99,
     "description": "Sustainable tank top made of bamboo cotton, offering breathability and comfort.",
-    "category": "Clothing - Tops"
+    "category": "Clothing - Tops",
+    "stock": 17
   },
   {
     "id": 91,
@@ -725,7 +815,8 @@
     "image": "http://dummyimage.com/237x100.png/5fa2dd/ffffff",
     "price": 5.99,
     "description": "Deliciously rich brownies made with almond flour.",
-    "category": "Food - Baking"
+    "category": "Food - Baking",
+    "stock": 20
   },
   {
     "id": 92,
@@ -733,7 +824,8 @@
     "image": "http://dummyimage.com/105x100.png/cc0000/ffffff",
     "price": 1.99,
     "description": "Juicy peach slices in light syrup, in convenient cups.",
-    "category": "Food - Snacks"
+    "category": "Food - Snacks",
+    "stock": 30
   },
   {
     "id": 93,
@@ -741,7 +833,8 @@
     "image": "http://dummyimage.com/193x100.png/5fa2dd/ffffff",
     "price": 14.99,
     "description": "Ceramic incense holder for a calming atmosphere.",
-    "category": "Home"
+    "category": "Home",
+    "stock": 5
   },
   {
     "id": 94,
@@ -749,7 +842,8 @@
     "image": "http://dummyimage.com/200x100.png/dddddd/000000",
     "price": 5.99,
     "description": "Chilled noodles dressed in sesame sauce, ready to eat.",
-    "category": "Food - Grab-and-Go"
+    "category": "Food - Grab-and-Go",
+    "stock": 28
   },
   {
     "id": 95,
@@ -757,7 +851,8 @@
     "image": "http://dummyimage.com/230x100.png/cc0000/ffffff",
     "price": 9.99,
     "description": "Variety pack of sticky notes in different colors and sizes.",
-    "category": "Office"
+    "category": "Office",
+    "stock": 29
   },
   {
     "id": 96,
@@ -765,7 +860,8 @@
     "image": "http://dummyimage.com/156x100.png/5fa2dd/ffffff",
     "price": 24.99,
     "description": "Connect your phone to the car's audio system via Bluetooth.",
-    "category": "Automotive"
+    "category": "Automotive",
+    "stock": 21
   },
   {
     "id": 97,
@@ -773,7 +869,8 @@
     "image": "http://dummyimage.com/243x100.png/ff4444/ffffff",
     "price": 3.29,
     "description": "A zesty seasoning for meats and vegetables",
-    "category": "Food - Seasonings"
+    "category": "Food - Seasonings",
+    "stock": 16
   },
   {
     "id": 98,
@@ -781,7 +878,8 @@
     "image": "http://dummyimage.com/129x100.png/5fa2dd/ffffff",
     "price": 19.99,
     "description": "Compact storage for your jewelry while traveling.",
-    "category": "Accessories"
+    "category": "Accessories",
+    "stock": 3
   },
   {
     "id": 99,
@@ -789,7 +887,8 @@
     "image": "http://dummyimage.com/169x100.png/ff4444/ffffff",
     "price": 129.99,
     "description": "Easy-to-set up tent designed for campers and hikers.",
-    "category": "Outdoor"
+    "category": "Outdoor",
+    "stock": 25
   },
   {
     "id": 100,
@@ -797,7 +896,8 @@
     "image": "http://dummyimage.com/219x100.png/ff4444/ffffff",
     "price": 4.99,
     "description": "Natural honey sourced from wildflowers.",
-    "category": "Food - Condiments"
+    "category": "Food - Condiments",
+    "stock": 17
   },
   {
     "id": 101,
@@ -805,7 +905,8 @@
     "image": "http://dummyimage.com/141x100.png/cc0000/ffffff",
     "price": 8.99,
     "description": "Heavy-duty scissors for crafting and office use.",
-    "category": "Office"
+    "category": "Office",
+    "stock": 4
   },
   {
     "id": 102,
@@ -813,7 +914,8 @@
     "image": "http://dummyimage.com/126x100.png/dddddd/000000",
     "price": 19.99,
     "description": "Instant-read thermometer for accurate cooking temperatures.",
-    "category": "Kitchen"
+    "category": "Kitchen",
+    "stock": 5
   },
   {
     "id": 103,
@@ -821,7 +923,8 @@
     "image": "http://dummyimage.com/248x100.png/ff4444/ffffff",
     "price": 3.99,
     "description": "A flavorful blend of rice with tropical pineapple and coconut flavors.",
-    "category": "Food - Grains"
+    "category": "Food - Grains",
+    "stock": 11
   },
   {
     "id": 104,
@@ -829,7 +932,8 @@
     "image": "http://dummyimage.com/196x100.png/5fa2dd/ffffff",
     "price": 4.29,
     "description": "Fresh salsa made with pineapple and spices",
-    "category": "Food - Condiments"
+    "category": "Food - Condiments",
+    "stock": 22
   },
   {
     "id": 105,
@@ -837,7 +941,8 @@
     "image": "http://dummyimage.com/246x100.png/5fa2dd/ffffff",
     "price": 1.49,
     "description": "Sweet mixture of cinnamon and sugar for sprinkling.",
-    "category": "Food - Baking"
+    "category": "Food - Baking",
+    "stock": 25
   },
   {
     "id": 106,
@@ -845,7 +950,8 @@
     "image": "http://dummyimage.com/127x100.png/dddddd/000000",
     "price": 2.99,
     "description": "A sweet and spicy sauce, great for dipping or cooking.",
-    "category": "Food - Condiments"
+    "category": "Food - Condiments",
+    "stock": 5
   },
   {
     "id": 107,
@@ -853,7 +959,8 @@
     "image": "http://dummyimage.com/237x100.png/ff4444/ffffff",
     "price": 19.99,
     "description": "Large wall planner for organizing schedules.",
-    "category": "Office"
+    "category": "Office",
+    "stock": 14
   },
   {
     "id": 108,
@@ -861,7 +968,8 @@
     "image": "http://dummyimage.com/240x100.png/cc0000/ffffff",
     "price": 49.99,
     "description": "Cook rice and steam vegetables simultaneously for healthy meals.",
-    "category": "Kitchen"
+    "category": "Kitchen",
+    "stock": 24
   },
   {
     "id": 109,
@@ -869,7 +977,8 @@
     "image": "http://dummyimage.com/126x100.png/dddddd/000000",
     "price": 2.29,
     "description": "Rich vegetable broth for soups and stews.",
-    "category": "Food - Canned Goods"
+    "category": "Food - Canned Goods",
+    "stock": 8
   },
   {
     "id": 110,
@@ -877,7 +986,8 @@
     "image": "http://dummyimage.com/115x100.png/dddddd/000000",
     "price": 19.99,
     "description": "Heavy-duty chain lock for securing bicycles.",
-    "category": "Outdoor"
+    "category": "Outdoor",
+    "stock": 29
   },
   {
     "id": 111,
@@ -885,7 +995,8 @@
     "image": "http://dummyimage.com/191x100.png/5fa2dd/ffffff",
     "price": 12.99,
     "description": "Durable cable for connecting devices with high-definition video.",
-    "category": "Electronics"
+    "category": "Electronics",
+    "stock": 7
   },
   {
     "id": 112,
@@ -893,7 +1004,8 @@
     "image": "http://dummyimage.com/159x100.png/dddddd/000000",
     "price": 24.99,
     "description": "Portable case to organize and protect jewelry on trips.",
-    "category": "Accessories"
+    "category": "Accessories",
+    "stock": 11
   },
   {
     "id": 113,
@@ -901,7 +1013,8 @@
     "image": "http://dummyimage.com/247x100.png/cc0000/ffffff",
     "price": 12.99,
     "description": "Easy-to-use tiebacks for curtains or drapes.",
-    "category": "Home"
+    "category": "Home",
+    "stock": 18
   },
   {
     "id": 114,
@@ -909,7 +1022,8 @@
     "image": "http://dummyimage.com/120x100.png/dddddd/000000",
     "price": 2.49,
     "description": "Rich vegetable stock for cooking soups and stews.",
-    "category": "Food - Cooking Essentials"
+    "category": "Food - Cooking Essentials",
+    "stock": 9
   },
   {
     "id": 115,
@@ -917,7 +1031,8 @@
     "image": "http://dummyimage.com/139x100.png/dddddd/000000",
     "price": 2.99,
     "description": "Flavorful rice mixed with coconut and lime, a tropical side dish.",
-    "category": "Food - Sides"
+    "category": "Food - Sides",
+    "stock": 22
   },
   {
     "id": 116,
@@ -925,7 +1040,8 @@
     "image": "http://dummyimage.com/222x100.png/dddddd/000000",
     "price": 12.99,
     "description": "Activity workbook for early learning and fun.",
-    "category": "Books"
+    "category": "Books",
+    "stock": 18
   },
   {
     "id": 117,
@@ -933,7 +1049,8 @@
     "image": "http://dummyimage.com/163x100.png/cc0000/ffffff",
     "price": 99.99,
     "description": "A warm and stylish puffer coat perfect for winter weather.",
-    "category": "Clothing - Outerwear"
+    "category": "Clothing - Outerwear",
+    "stock": 16
   },
   {
     "id": 118,
@@ -941,7 +1058,8 @@
     "image": "http://dummyimage.com/206x100.png/5fa2dd/ffffff",
     "price": 19.99,
     "description": "High-intensity flashlight with adjustable focus and brightness.",
-    "category": "Outdoor"
+    "category": "Outdoor",
+    "stock": 30
   },
   {
     "id": 119,
@@ -949,7 +1067,8 @@
     "image": "http://dummyimage.com/178x100.png/dddddd/000000",
     "price": 2.99,
     "description": "Soft pita bread, perfect for sandwiches or dips.",
-    "category": "Food - Bakery"
+    "category": "Food - Bakery",
+    "stock": 30
   },
   {
     "id": 120,
@@ -957,7 +1076,8 @@
     "image": "http://dummyimage.com/240x100.png/cc0000/ffffff",
     "price": 3.49,
     "description": "Rich sauce for desserts and ice cream.",
-    "category": "Food - Condiments"
+    "category": "Food - Condiments",
+    "stock": 14
   },
   {
     "id": 121,
@@ -965,7 +1085,8 @@
     "image": "http://dummyimage.com/123x100.png/ff4444/ffffff",
     "price": 5.99,
     "description": "A blend of peach and mango for a tropical smoothie.",
-    "category": "Food - Beverages"
+    "category": "Food - Beverages",
+    "stock": 22
   },
   {
     "id": 122,
@@ -973,7 +1094,8 @@
     "image": "http://dummyimage.com/134x100.png/dddddd/000000",
     "price": 1.29,
     "description": "Creamy peach-flavored yogurt with real fruit.",
-    "category": "Food - Dairy"
+    "category": "Food - Dairy",
+    "stock": 19
   },
   {
     "id": 123,
@@ -981,7 +1103,8 @@
     "image": "http://dummyimage.com/171x100.png/5fa2dd/ffffff",
     "price": 29.99,
     "description": "Adjustable tripod with remote shutter for smartphones.",
-    "category": "Photography"
+    "category": "Photography",
+    "stock": 9
   },
   {
     "id": 124,
@@ -989,7 +1112,8 @@
     "image": "http://dummyimage.com/137x100.png/dddddd/000000",
     "price": 5.29,
     "description": "Sweet blackberry compote, perfect for topping desserts.",
-    "category": "Food - Condiments"
+    "category": "Food - Condiments",
+    "stock": 29
   },
   {
     "id": 125,
@@ -997,7 +1121,8 @@
     "image": "http://dummyimage.com/152x100.png/cc0000/ffffff",
     "price": 29.99,
     "description": "Adjustable footrest for improved comfort while sitting.",
-    "category": "Office"
+    "category": "Office",
+    "stock": 4
   },
   {
     "id": 126,
@@ -1005,7 +1130,8 @@
     "image": "http://dummyimage.com/193x100.png/ff4444/ffffff",
     "price": 29.99,
     "description": "Lightweight hair dryer with multiple speed settings.",
-    "category": "Beauty"
+    "category": "Beauty",
+    "stock": 11
   },
   {
     "id": 127,
@@ -1013,7 +1139,8 @@
     "image": "http://dummyimage.com/203x100.png/cc0000/ffffff",
     "price": 249.99,
     "description": "Automated cleaning robot for hassle-free home maintenance.",
-    "category": "Home Appliances"
+    "category": "Home Appliances",
+    "stock": 16
   },
   {
     "id": 128,
@@ -1021,7 +1148,8 @@
     "image": "http://dummyimage.com/164x100.png/dddddd/000000",
     "price": 2.99,
     "description": "Just add water for delicious brownies.",
-    "category": "Food - Baking"
+    "category": "Food - Baking",
+    "stock": 17
   },
   {
     "id": 129,
@@ -1029,7 +1157,8 @@
     "image": "http://dummyimage.com/116x100.png/ff4444/ffffff",
     "price": 6.99,
     "description": "Dairy-free ice cream made with coconut milk, creamy and delicious.",
-    "category": "Food - Frozen Desserts"
+    "category": "Food - Frozen Desserts",
+    "stock": 20
   },
   {
     "id": 130,
@@ -1037,7 +1166,8 @@
     "image": "http://dummyimage.com/198x100.png/cc0000/ffffff",
     "price": 3.49,
     "description": "Perfectly balanced sweet and tangy BBQ sauce for dipping or grilling.",
-    "category": "Food - Condiments"
+    "category": "Food - Condiments",
+    "stock": 21
   },
   {
     "id": 131,
@@ -1045,7 +1175,8 @@
     "image": "http://dummyimage.com/174x100.png/cc0000/ffffff",
     "price": 54.99,
     "description": "Chic wrap jumpsuit that flatters the body and is perfect for any occasion.",
-    "category": "Clothing - Jumpsuits"
+    "category": "Clothing - Jumpsuits",
+    "stock": 21
   },
   {
     "id": 132,
@@ -1053,7 +1184,8 @@
     "image": "http://dummyimage.com/202x100.png/ff4444/ffffff",
     "price": 39.99,
     "description": "Convenient feeder that adjusts to your pet's height.",
-    "category": "Pets"
+    "category": "Pets",
+    "stock": 29
   },
   {
     "id": 133,
@@ -1061,7 +1193,8 @@
     "image": "http://dummyimage.com/147x100.png/5fa2dd/ffffff",
     "price": 79.99,
     "description": "Smart tailored dress pants, perfect for work or formal events.",
-    "category": "Clothing - Bottoms"
+    "category": "Clothing - Bottoms",
+    "stock": 17
   },
   {
     "id": 134,
@@ -1069,7 +1202,8 @@
     "image": "http://dummyimage.com/149x100.png/5fa2dd/ffffff",
     "price": 49.99,
     "description": "Water bottle with built-in UV-C light for self-cleaning.",
-    "category": "Fitness"
+    "category": "Fitness",
+    "stock": 22
   },
   {
     "id": 135,
@@ -1077,7 +1211,8 @@
     "image": "http://dummyimage.com/204x100.png/ff4444/ffffff",
     "price": 12.99,
     "description": "Laundry bags perfect for delicates and organizing clothes.",
-    "category": "Home"
+    "category": "Home",
+    "stock": 30
   },
   {
     "id": 136,
@@ -1085,7 +1220,8 @@
     "image": "http://dummyimage.com/110x100.png/dddddd/000000",
     "price": 39.99,
     "description": "Adjustable lamp with multiple brightness levels and colors.",
-    "category": "Office"
+    "category": "Office",
+    "stock": 25
   },
   {
     "id": 137,
@@ -1093,7 +1229,8 @@
     "image": "http://dummyimage.com/228x100.png/5fa2dd/ffffff",
     "price": 3.49,
     "description": "Refreshing juice blend made with various fresh fruits.",
-    "category": "Food - Beverages"
+    "category": "Food - Beverages",
+    "stock": 7
   },
   {
     "id": 138,
@@ -1101,7 +1238,8 @@
     "image": "http://dummyimage.com/227x100.png/ff4444/ffffff",
     "price": 18.99,
     "description": "Manual blender for smoothies and mixing ingredients on the go.",
-    "category": "Kitchen"
+    "category": "Kitchen",
+    "stock": 8
   },
   {
     "id": 139,
@@ -1109,7 +1247,8 @@
     "image": "http://dummyimage.com/129x100.png/5fa2dd/ffffff",
     "price": 79.99,
     "description": "Chic suede ankle booties, perfect for dressing up or down.",
-    "category": "Clothing - Footwear"
+    "category": "Clothing - Footwear",
+    "stock": 13
   },
   {
     "id": 140,
@@ -1117,7 +1256,8 @@
     "image": "http://dummyimage.com/119x100.png/ff4444/ffffff",
     "price": 34.99,
     "description": "Peel and stick wallpaper for easy home decor changes.",
-    "category": "Home"
+    "category": "Home",
+    "stock": 12
   },
   {
     "id": 141,
@@ -1125,7 +1265,8 @@
     "image": "http://dummyimage.com/117x100.png/ff4444/ffffff",
     "price": 4.99,
     "description": "Crispy on the outside, tender on the inside, perfect for stir-fries or salads.",
-    "category": "Food - Protein"
+    "category": "Food - Protein",
+    "stock": 7
   },
   {
     "id": 142,
@@ -1133,7 +1274,8 @@
     "image": "http://dummyimage.com/198x100.png/dddddd/000000",
     "price": 2.99,
     "description": "Rich spaghetti sauce, a perfect pasta sauce.",
-    "category": "Food - Canned Goods"
+    "category": "Food - Canned Goods",
+    "stock": 10
   },
   {
     "id": 143,
@@ -1141,7 +1283,8 @@
     "image": "http://dummyimage.com/124x100.png/5fa2dd/ffffff",
     "price": 22.99,
     "description": "Space-saving solution to store shoes and keep them organized.",
-    "category": "Home"
+    "category": "Home",
+    "stock": 28
   },
   {
     "id": 144,
@@ -1149,7 +1292,8 @@
     "image": "http://dummyimage.com/214x100.png/cc0000/ffffff",
     "price": 2.49,
     "description": "A smoky blend of spices for grilling and roasting.",
-    "category": "Food - Spices"
+    "category": "Food - Spices",
+    "stock": 6
   },
   {
     "id": 145,
@@ -1157,7 +1301,8 @@
     "image": "http://dummyimage.com/222x100.png/ff4444/ffffff",
     "price": 49.99,
     "description": "A tailored slim fit shirt for a polished look at work.",
-    "category": "Clothing - Shirts"
+    "category": "Clothing - Shirts",
+    "stock": 21
   },
   {
     "id": 146,
@@ -1165,7 +1310,8 @@
     "image": "http://dummyimage.com/103x100.png/dddddd/000000",
     "price": 39.99,
     "description": "Stylish and modern holder for storing wine bottles on walls.",
-    "category": "Home"
+    "category": "Home",
+    "stock": 9
   },
   {
     "id": 147,
@@ -1173,7 +1319,8 @@
     "image": "http://dummyimage.com/136x100.png/ff4444/ffffff",
     "price": 3.79,
     "description": "Fiery hot sauce made with fresh habaneros and spices.",
-    "category": "Food - Condiments"
+    "category": "Food - Condiments",
+    "stock": 25
   },
   {
     "id": 148,
@@ -1181,7 +1328,8 @@
     "image": "http://dummyimage.com/122x100.png/dddddd/000000",
     "price": 39.99,
     "description": "High-density, non-slip yoga mat for stability and comfort.",
-    "category": "Fitness"
+    "category": "Fitness",
+    "stock": 3
   },
   {
     "id": 149,
@@ -1189,7 +1337,8 @@
     "image": "http://dummyimage.com/194x100.png/ff4444/ffffff",
     "price": 7.49,
     "description": "Gourmet potato skins loaded with cheddar cheese and bacon.",
-    "category": "Food - Frozen"
+    "category": "Food - Frozen",
+    "stock": 3
   },
   {
     "id": 150,
@@ -1197,7 +1346,8 @@
     "image": "http://dummyimage.com/119x100.png/cc0000/ffffff",
     "price": 1.99,
     "description": "Crunchy and sweet banana chips, a great on-the-go snack.",
-    "category": "Food - Snacks"
+    "category": "Food - Snacks",
+    "stock": 17
   },
   {
     "id": 151,
@@ -1205,7 +1355,8 @@
     "image": "http://dummyimage.com/204x100.png/ff4444/ffffff",
     "price": 5.99,
     "description": "A convenient powder mix combining greens and fruits for smoothies.",
-    "category": "Food - Beverages"
+    "category": "Food - Beverages",
+    "stock": 5
   },
   {
     "id": 152,
@@ -1213,7 +1364,8 @@
     "image": "http://dummyimage.com/105x100.png/ff4444/ffffff",
     "price": 59.99,
     "description": "Fashionable wide-leg trousers for a chic silhouette.",
-    "category": "Clothing - Bottoms"
+    "category": "Clothing - Bottoms",
+    "stock": 23
   },
   {
     "id": 153,
@@ -1221,7 +1373,8 @@
     "image": "http://dummyimage.com/120x100.png/ff4444/ffffff",
     "price": 2.29,
     "description": "Rich vegetable broth for soups and stews.",
-    "category": "Food - Canned Goods"
+    "category": "Food - Canned Goods",
+    "stock": 7
   },
   {
     "id": 154,
@@ -1229,7 +1382,8 @@
     "image": "http://dummyimage.com/216x100.png/dddddd/000000",
     "price": 5.99,
     "description": "Simple tool to train your pet with positive reinforcement.",
-    "category": "Pets"
+    "category": "Pets",
+    "stock": 1
   },
   {
     "id": 155,
@@ -1237,7 +1391,8 @@
     "image": "http://dummyimage.com/164x100.png/cc0000/ffffff",
     "price": 59.99,
     "description": "Soft and comfortable robe, perfect for lounging at home.",
-    "category": "Clothing - Loungewear"
+    "category": "Clothing - Loungewear",
+    "stock": 20
   },
   {
     "id": 156,
@@ -1245,7 +1400,8 @@
     "image": "http://dummyimage.com/208x100.png/cc0000/ffffff",
     "price": 4.99,
     "description": "Delicious mini donuts dusted with cinnamon sugar.",
-    "category": "Food - Bakery"
+    "category": "Food - Bakery",
+    "stock": 6
   },
   {
     "id": 157,
@@ -1253,7 +1409,8 @@
     "image": "http://dummyimage.com/222x100.png/ff4444/ffffff",
     "price": 24.99,
     "description": "Collapsible dish rack for kitchen countertop use.",
-    "category": "Kitchen"
+    "category": "Kitchen",
+    "stock": 30
   },
   {
     "id": 158,
@@ -1261,7 +1418,8 @@
     "image": "http://dummyimage.com/144x100.png/5fa2dd/ffffff",
     "price": 34.99,
     "description": "Supportive yoga wheel for deep stretching and balance.",
-    "category": "Fitness"
+    "category": "Fitness",
+    "stock": 18
   },
   {
     "id": 159,
@@ -1269,7 +1427,8 @@
     "image": "http://dummyimage.com/241x100.png/ff4444/ffffff",
     "price": 18.99,
     "description": "Travel-friendly water bottle for pets on the go.",
-    "category": "Pets"
+    "category": "Pets",
+    "stock": 21
   },
   {
     "id": 160,
@@ -1277,7 +1436,8 @@
     "image": "http://dummyimage.com/247x100.png/dddddd/000000",
     "price": 22.99,
     "description": "Everything you need to make your own candles.",
-    "category": "Crafts"
+    "category": "Crafts",
+    "stock": 10
   },
   {
     "id": 161,
@@ -1285,7 +1445,8 @@
     "image": "http://dummyimage.com/248x100.png/5fa2dd/ffffff",
     "price": 3.39,
     "description": "A sweet and tangy vinaigrette dressing for salads.",
-    "category": "Food - Dressing"
+    "category": "Food - Dressing",
+    "stock": 19
   },
   {
     "id": 162,
@@ -1293,7 +1454,8 @@
     "image": "http://dummyimage.com/192x100.png/ff4444/ffffff",
     "price": 49.99,
     "description": "A tailored slim fit shirt for a polished look at work.",
-    "category": "Clothing - Shirts"
+    "category": "Clothing - Shirts",
+    "stock": 3
   },
   {
     "id": 163,
@@ -1301,7 +1463,8 @@
     "image": "http://dummyimage.com/193x100.png/5fa2dd/ffffff",
     "price": 1.89,
     "description": "Thin, flat pasta perfect for various sauces.",
-    "category": "Food - Pasta"
+    "category": "Food - Pasta",
+    "stock": 19
   },
   {
     "id": 164,
@@ -1309,7 +1472,8 @@
     "image": "http://dummyimage.com/148x100.png/5fa2dd/ffffff",
     "price": 19.99,
     "description": "Durable training soccer ball for practice.",
-    "category": "Sports"
+    "category": "Sports",
+    "stock": 25
   },
   {
     "id": 165,
@@ -1317,7 +1481,8 @@
     "image": "http://dummyimage.com/155x100.png/dddddd/000000",
     "price": 19.99,
     "description": "Complete watercolor set with paints and brushes.",
-    "category": "Art Supplies"
+    "category": "Art Supplies",
+    "stock": 25
   },
   {
     "id": 166,
@@ -1325,7 +1490,8 @@
     "image": "http://dummyimage.com/168x100.png/dddddd/000000",
     "price": 4.5,
     "description": "Hearty beef chili, ready to heat and eat.",
-    "category": "Food - Canned Goods"
+    "category": "Food - Canned Goods",
+    "stock": 26
   },
   {
     "id": 167,
@@ -1333,7 +1499,8 @@
     "image": "http://dummyimage.com/209x100.png/ff4444/ffffff",
     "price": 24.99,
     "description": "Relaxing paint kit with pre-printed canvas for painting.",
-    "category": "Art Supplies"
+    "category": "Art Supplies",
+    "stock": 5
   },
   {
     "id": 168,
@@ -1341,7 +1508,8 @@
     "image": "http://dummyimage.com/144x100.png/cc0000/ffffff",
     "price": 3.49,
     "description": "A sweet and spicy glaze that's perfect for grilling or marinades.",
-    "category": "Food - Condiments"
+    "category": "Food - Condiments",
+    "stock": 4
   },
   {
     "id": 169,
@@ -1349,7 +1517,8 @@
     "image": "http://dummyimage.com/216x100.png/5fa2dd/ffffff",
     "price": 5.49,
     "description": "All-in-one mix for easy homemade cheeseburgers, just add ground beef.",
-    "category": "Food - Meats"
+    "category": "Food - Meats",
+    "stock": 28
   },
   {
     "id": 170,
@@ -1357,7 +1526,8 @@
     "image": "http://dummyimage.com/114x100.png/cc0000/ffffff",
     "price": 34.99,
     "description": "Elegant tea set that includes an infuser for brewing.",
-    "category": "Kitchen"
+    "category": "Kitchen",
+    "stock": 13
   },
   {
     "id": 171,
@@ -1365,7 +1535,8 @@
     "image": "http://dummyimage.com/249x100.png/cc0000/ffffff",
     "price": 109.99,
     "description": "1080p wireless security camera with night vision.",
-    "category": "Home"
+    "category": "Home",
+    "stock": 20
   },
   {
     "id": 172,
@@ -1373,7 +1544,8 @@
     "image": "http://dummyimage.com/217x100.png/ff4444/ffffff",
     "price": 2.19,
     "description": "Unsweetened apple sauce, great for snacks or baking.",
-    "category": "Food - Canned Goods"
+    "category": "Food - Canned Goods",
+    "stock": 9
   },
   {
     "id": 173,
@@ -1381,7 +1553,8 @@
     "image": "http://dummyimage.com/211x100.png/dddddd/000000",
     "price": 59.99,
     "description": "A fitted ribbed knit dress that hugs your curves perfectly.",
-    "category": "Clothing - Dresses"
+    "category": "Clothing - Dresses",
+    "stock": 5
   },
   {
     "id": 174,
@@ -1389,7 +1562,8 @@
     "image": "http://dummyimage.com/100x100.png/ff4444/ffffff",
     "price": 8.99,
     "description": "Spicy blue cheese with a hint of buffalo flavor.",
-    "category": "Food - Cheese"
+    "category": "Food - Cheese",
+    "stock": 21
   },
   {
     "id": 175,
@@ -1397,7 +1571,8 @@
     "image": "http://dummyimage.com/156x100.png/cc0000/ffffff",
     "price": 119.99,
     "description": "Wi-Fi enabled doorbell with HD camera and two-way audio.",
-    "category": "Smart Home"
+    "category": "Smart Home",
+    "stock": 8
   },
   {
     "id": 176,
@@ -1405,7 +1580,8 @@
     "image": "http://dummyimage.com/201x100.png/5fa2dd/ffffff",
     "price": 4.29,
     "description": "A sweet and spicy salsa made with mangoes and a hint of chili, great with chips or grilled chicken.",
-    "category": "Food - Condiments"
+    "category": "Food - Condiments",
+    "stock": 19
   },
   {
     "id": 177,
@@ -1413,7 +1589,8 @@
     "image": "http://dummyimage.com/100x100.png/ff4444/ffffff",
     "price": 34.99,
     "description": "Adjustable shower head for a luxurious shower experience.",
-    "category": "Bathroom"
+    "category": "Bathroom",
+    "stock": 14
   },
   {
     "id": 178,
@@ -1421,7 +1598,8 @@
     "image": "http://dummyimage.com/197x100.png/dddddd/000000",
     "price": 2.99,
     "description": "Rich tomato soup flavored with fresh basil, ready to heat up.",
-    "category": "Food - Canned Soups"
+    "category": "Food - Canned Soups",
+    "stock": 30
   },
   {
     "id": 179,
@@ -1429,7 +1607,8 @@
     "image": "http://dummyimage.com/193x100.png/dddddd/000000",
     "price": 49.99,
     "description": "HD streaming device for accessing popular services.",
-    "category": "Electronics"
+    "category": "Electronics",
+    "stock": 5
   },
   {
     "id": 180,
@@ -1437,7 +1616,8 @@
     "image": "http://dummyimage.com/211x100.png/dddddd/000000",
     "price": 2.99,
     "description": "Just add water for delicious brownies.",
-    "category": "Food - Baking"
+    "category": "Food - Baking",
+    "stock": 13
   },
   {
     "id": 181,
@@ -1445,7 +1625,8 @@
     "image": "http://dummyimage.com/115x100.png/dddddd/000000",
     "price": 4.99,
     "description": "A mix of frozen berries for smoothies or desserts",
-    "category": "Food - Frozen Foods"
+    "category": "Food - Frozen Foods",
+    "stock": 20
   },
   {
     "id": 182,
@@ -1453,7 +1634,8 @@
     "image": "http://dummyimage.com/112x100.png/5fa2dd/ffffff",
     "price": 1.79,
     "description": "Twisted pasta perfect for salads and pasta dishes.",
-    "category": "Food - Pasta"
+    "category": "Food - Pasta",
+    "stock": 5
   },
   {
     "id": 183,
@@ -1461,7 +1643,8 @@
     "image": "http://dummyimage.com/120x100.png/5fa2dd/ffffff",
     "price": 5.49,
     "description": "Crunchy granola with maple flavor and almond pieces for breakfast.",
-    "category": "Food - Breakfast"
+    "category": "Food - Breakfast",
+    "stock": 10
   },
   {
     "id": 184,
@@ -1469,7 +1652,8 @@
     "image": "http://dummyimage.com/180x100.png/cc0000/ffffff",
     "price": 1.99,
     "description": "Corn on the cob seasoned with chili and lime for a spicy kick.",
-    "category": "Food - Vegetable"
+    "category": "Food - Vegetable",
+    "stock": 5
   },
   {
     "id": 185,
@@ -1477,7 +1661,8 @@
     "image": "http://dummyimage.com/213x100.png/ff4444/ffffff",
     "price": 32.99,
     "description": "Durable tarp for outdoor camping and protection.",
-    "category": "Outdoor"
+    "category": "Outdoor",
+    "stock": 8
   },
   {
     "id": 186,
@@ -1485,7 +1670,8 @@
     "image": "http://dummyimage.com/213x100.png/dddddd/000000",
     "price": 39.99,
     "description": "Soft throw blanket for cozy home decor.",
-    "category": "Home"
+    "category": "Home",
+    "stock": 19
   },
   {
     "id": 187,
@@ -1493,7 +1679,8 @@
     "image": "http://dummyimage.com/155x100.png/5fa2dd/ffffff",
     "price": 6.99,
     "description": "Pure maple syrup for pancakes and more.",
-    "category": "Food - Condiments"
+    "category": "Food - Condiments",
+    "stock": 16
   },
   {
     "id": 188,
@@ -1501,7 +1688,8 @@
     "image": "http://dummyimage.com/236x100.png/5fa2dd/ffffff",
     "price": 3.99,
     "description": "Gluten-free pasta made from red lentils, packed with protein.",
-    "category": "Food - Pasta"
+    "category": "Food - Pasta",
+    "stock": 10
   },
   {
     "id": 189,
@@ -1509,7 +1697,8 @@
     "image": "http://dummyimage.com/139x100.png/ff4444/ffffff",
     "price": 39.99,
     "description": "High-performance compression tights designed for optimal support and comfort.",
-    "category": "Clothing - Activewear"
+    "category": "Clothing - Activewear",
+    "stock": 10
   },
   {
     "id": 190,
@@ -1517,7 +1706,8 @@
     "image": "http://dummyimage.com/200x100.png/dddddd/000000",
     "price": 54.99,
     "description": "Chic wrap jumpsuit that flatters the body and is perfect for any occasion.",
-    "category": "Clothing - Jumpsuits"
+    "category": "Clothing - Jumpsuits",
+    "stock": 16
   },
   {
     "id": 191,
@@ -1525,7 +1715,8 @@
     "image": "http://dummyimage.com/170x100.png/5fa2dd/ffffff",
     "price": 69.99,
     "description": "Comfortable trainers with mesh inserts for breathability.",
-    "category": "Clothing - Footwear"
+    "category": "Clothing - Footwear",
+    "stock": 24
   },
   {
     "id": 192,
@@ -1533,7 +1724,8 @@
     "image": "http://dummyimage.com/104x100.png/cc0000/ffffff",
     "price": 11.99,
     "description": "High-precision oven thermometer for accurate cooking.",
-    "category": "Kitchen"
+    "category": "Kitchen",
+    "stock": 22
   },
   {
     "id": 193,
@@ -1541,7 +1733,8 @@
     "image": "http://dummyimage.com/114x100.png/ff4444/ffffff",
     "price": 29.99,
     "description": "Delicious recipes focusing on plant-based ingredients.",
-    "category": "Books"
+    "category": "Books",
+    "stock": 12
   },
   {
     "id": 194,
@@ -1549,7 +1742,8 @@
     "image": "http://dummyimage.com/210x100.png/cc0000/ffffff",
     "price": 15.99,
     "description": "Soft glow night light for children's rooms or bedside.",
-    "category": "Home"
+    "category": "Home",
+    "stock": 29
   },
   {
     "id": 195,
@@ -1557,7 +1751,8 @@
     "image": "http://dummyimage.com/135x100.png/5fa2dd/ffffff",
     "price": 1.29,
     "description": "Fresh organic cucumber perfect for salads or snacking.",
-    "category": "Food - Vegetables"
+    "category": "Food - Vegetables",
+    "stock": 5
   },
   {
     "id": 196,
@@ -1565,7 +1760,8 @@
     "image": "http://dummyimage.com/230x100.png/5fa2dd/ffffff",
     "price": 249.99,
     "description": "Space-saving adjustable dumbbells for strength training.",
-    "category": "Fitness"
+    "category": "Fitness",
+    "stock": 29
   },
   {
     "id": 197,
@@ -1573,7 +1769,8 @@
     "image": "http://dummyimage.com/177x100.png/5fa2dd/ffffff",
     "price": 19.99,
     "description": "Color-changing 3D night light for kids' rooms.",
-    "category": "Home"
+    "category": "Home",
+    "stock": 24
   },
   {
     "id": 198,
@@ -1581,7 +1778,8 @@
     "image": "http://dummyimage.com/173x100.png/dddddd/000000",
     "price": 8.99,
     "description": "Creamy vegan mac and cheese made with cashew cheese.",
-    "category": "Food - Frozen"
+    "category": "Food - Frozen",
+    "stock": 22
   },
   {
     "id": 199,
@@ -1589,7 +1787,8 @@
     "image": "http://dummyimage.com/100x100.png/dddddd/000000",
     "price": 5.49,
     "description": "A ready-to-eat salad made with chickpeas and veggies.",
-    "category": "Food - Prepared Foods"
+    "category": "Food - Prepared Foods",
+    "stock": 26
   },
   {
     "id": 200,
@@ -1597,7 +1796,8 @@
     "image": "http://dummyimage.com/149x100.png/ff4444/ffffff",
     "price": 5.99,
     "description": "A convenient powder mix combining greens and fruits for smoothies.",
-    "category": "Food - Beverages"
+    "category": "Food - Beverages",
+    "stock": 24
   },
   {
     "id": 201,
@@ -1605,7 +1805,8 @@
     "image": "http://dummyimage.com/143x100.png/dddddd/000000",
     "price": 109.99,
     "description": "1080p wireless security camera with night vision.",
-    "category": "Home"
+    "category": "Home",
+    "stock": 10
   },
   {
     "id": 202,
@@ -1613,7 +1814,8 @@
     "image": "http://dummyimage.com/148x100.png/dddddd/000000",
     "price": 4.99,
     "description": "A mix of frozen berries for smoothies or desserts",
-    "category": "Food - Frozen Foods"
+    "category": "Food - Frozen Foods",
+    "stock": 8
   },
   {
     "id": 203,
@@ -1621,7 +1823,8 @@
     "image": "http://dummyimage.com/182x100.png/dddddd/000000",
     "price": 39.99,
     "description": "Vertical shoe rack for saving closet space.",
-    "category": "Home"
+    "category": "Home",
+    "stock": 9
   },
   {
     "id": 204,
@@ -1629,7 +1832,8 @@
     "image": "http://dummyimage.com/238x100.png/ff4444/ffffff",
     "price": 24.99,
     "description": "Compact knife with safety lock for everyday use.",
-    "category": "Tools"
+    "category": "Tools",
+    "stock": 9
   },
   {
     "id": 205,
@@ -1637,7 +1841,8 @@
     "image": "http://dummyimage.com/169x100.png/5fa2dd/ffffff",
     "price": 29.99,
     "description": "Comfortable wireless headphones designed for sleeping.",
-    "category": "Audio"
+    "category": "Audio",
+    "stock": 13
   },
   {
     "id": 206,
@@ -1645,7 +1850,8 @@
     "image": "http://dummyimage.com/174x100.png/dddddd/000000",
     "price": 34.99,
     "description": "A light and breezy top ideal for warm days.",
-    "category": "Clothing - Tops"
+    "category": "Clothing - Tops",
+    "stock": 13
   },
   {
     "id": 207,
@@ -1653,7 +1859,8 @@
     "image": "http://dummyimage.com/133x100.png/5fa2dd/ffffff",
     "price": 24.99,
     "description": "Indoor gardening kit with herbs and pots.",
-    "category": "Garden"
+    "category": "Garden",
+    "stock": 29
   },
   {
     "id": 208,
@@ -1661,7 +1868,8 @@
     "image": "http://dummyimage.com/243x100.png/dddddd/000000",
     "price": 49.99,
     "description": "Boosts your Wi-Fi coverage for better connectivity.",
-    "category": "Electronics"
+    "category": "Electronics",
+    "stock": 16
   },
   {
     "id": 209,
@@ -1669,7 +1877,8 @@
     "image": "http://dummyimage.com/213x100.png/cc0000/ffffff",
     "price": 5.49,
     "description": "Creamy risotto made with mushrooms and herbs, perfect as a side dish or main course.",
-    "category": "Food - Prepared Foods"
+    "category": "Food - Prepared Foods",
+    "stock": 27
   },
   {
     "id": 210,
@@ -1677,7 +1886,8 @@
     "image": "http://dummyimage.com/171x100.png/cc0000/ffffff",
     "price": 39.99,
     "description": "Rechargeable screwdriver with multiple bits for DIY projects.",
-    "category": "Tools"
+    "category": "Tools",
+    "stock": 19
   },
   {
     "id": 211,
@@ -1685,7 +1895,8 @@
     "image": "http://dummyimage.com/153x100.png/cc0000/ffffff",
     "price": 3.29,
     "description": "Rich chocolate cups filled with almond butter, a delicious treat.",
-    "category": "Food - Snacks"
+    "category": "Food - Snacks",
+    "stock": 28
   },
   {
     "id": 212,
@@ -1693,7 +1904,8 @@
     "image": "http://dummyimage.com/215x100.png/5fa2dd/ffffff",
     "price": 4.49,
     "description": "Creamy vanilla fudge, a sweet treat for all occasions.",
-    "category": "Food - Desserts"
+    "category": "Food - Desserts",
+    "stock": 27
   },
   {
     "id": 213,
@@ -1701,7 +1913,8 @@
     "image": "http://dummyimage.com/246x100.png/5fa2dd/ffffff",
     "price": 18.99,
     "description": "Stylish dish soap dispenser with sponge holder.",
-    "category": "Kitchen"
+    "category": "Kitchen",
+    "stock": 30
   },
   {
     "id": 214,
@@ -1709,7 +1922,8 @@
     "image": "http://dummyimage.com/104x100.png/ff4444/ffffff",
     "price": 3.99,
     "description": "Fluffy pancakes with buttermilk flavor.",
-    "category": "Food - Breakfast"
+    "category": "Food - Breakfast",
+    "stock": 24
   },
   {
     "id": 215,
@@ -1717,7 +1931,8 @@
     "image": "http://dummyimage.com/194x100.png/5fa2dd/ffffff",
     "price": 5.49,
     "description": "Fresh salad with pears, gorgonzola cheese, and nuts, perfect for lunch.",
-    "category": "Food - Salads"
+    "category": "Food - Salads",
+    "stock": 20
   },
   {
     "id": 216,
@@ -1725,7 +1940,8 @@
     "image": "http://dummyimage.com/104x100.png/dddddd/000000",
     "price": 19.99,
     "description": "Assorted indoor plants for home decor.",
-    "category": "Garden"
+    "category": "Garden",
+    "stock": 30
   },
   {
     "id": 217,
@@ -1733,7 +1949,8 @@
     "image": "http://dummyimage.com/137x100.png/cc0000/ffffff",
     "price": 2.99,
     "description": "Rich spaghetti sauce, a perfect pasta sauce.",
-    "category": "Food - Canned Goods"
+    "category": "Food - Canned Goods",
+    "stock": 30
   },
   {
     "id": 218,
@@ -1741,7 +1958,8 @@
     "image": "http://dummyimage.com/198x100.png/ff4444/ffffff",
     "price": 6.49,
     "description": "Creamy almond butter made from roasted almonds.",
-    "category": "Food - Condiments"
+    "category": "Food - Condiments",
+    "stock": 11
   },
   {
     "id": 219,
@@ -1749,7 +1967,8 @@
     "image": "http://dummyimage.com/250x100.png/cc0000/ffffff",
     "price": 2.29,
     "description": "Rich vegetable broth for soups and stews.",
-    "category": "Food - Canned Goods"
+    "category": "Food - Canned Goods",
+    "stock": 4
   },
   {
     "id": 220,
@@ -1757,7 +1976,8 @@
     "image": "http://dummyimage.com/242x100.png/dddddd/000000",
     "price": 49.99,
     "description": "High-quality leather wallet with multiple compartments.",
-    "category": "Accessories"
+    "category": "Accessories",
+    "stock": 3
   },
   {
     "id": 221,
@@ -1765,7 +1985,8 @@
     "image": "http://dummyimage.com/192x100.png/dddddd/000000",
     "price": 2.69,
     "description": "Smooth and creamy, ideal for spreads or baking.",
-    "category": "Food - Dairy"
+    "category": "Food - Dairy",
+    "stock": 24
   },
   {
     "id": 222,
@@ -1773,7 +1994,8 @@
     "image": "http://dummyimage.com/133x100.png/dddddd/000000",
     "price": 2.99,
     "description": "Delicious clusters of peanuts and chocolate for a sweet treat.",
-    "category": "Food - Desserts"
+    "category": "Food - Desserts",
+    "stock": 25
   },
   {
     "id": 223,
@@ -1781,7 +2003,8 @@
     "image": "http://dummyimage.com/248x100.png/5fa2dd/ffffff",
     "price": 54.99,
     "description": "Chic wrap jumpsuit that flatters the body and is perfect for any occasion.",
-    "category": "Clothing - Jumpsuits"
+    "category": "Clothing - Jumpsuits",
+    "stock": 1
   },
   {
     "id": 224,
@@ -1789,7 +2012,8 @@
     "image": "http://dummyimage.com/150x100.png/5fa2dd/ffffff",
     "price": 3.99,
     "description": "A flavorful blend of rice with tropical pineapple and coconut flavors.",
-    "category": "Food - Grains"
+    "category": "Food - Grains",
+    "stock": 21
   },
   {
     "id": 225,
@@ -1797,7 +2021,8 @@
     "image": "http://dummyimage.com/112x100.png/ff4444/ffffff",
     "price": 39.99,
     "description": "Powerful hand blender for soups and smoothies.",
-    "category": "Kitchen"
+    "category": "Kitchen",
+    "stock": 18
   },
   {
     "id": 226,
@@ -1805,7 +2030,8 @@
     "image": "http://dummyimage.com/117x100.png/ff4444/ffffff",
     "price": 99.99,
     "description": "Complete kit for emergency situations including food and water.",
-    "category": "Safety"
+    "category": "Safety",
+    "stock": 3
   },
   {
     "id": 227,
@@ -1813,7 +2039,8 @@
     "image": "http://dummyimage.com/192x100.png/ff4444/ffffff",
     "price": 39.99,
     "description": "Functional leggings designed for maximum comfort during workouts.",
-    "category": "Clothing - Activewear"
+    "category": "Clothing - Activewear",
+    "stock": 30
   },
   {
     "id": 228,
@@ -1821,7 +2048,8 @@
     "image": "http://dummyimage.com/194x100.png/dddddd/000000",
     "price": 12.99,
     "description": "Set of whisks in various sizes for cooking.",
-    "category": "Kitchen"
+    "category": "Kitchen",
+    "stock": 26
   },
   {
     "id": 229,
@@ -1829,7 +2057,8 @@
     "image": "http://dummyimage.com/225x100.png/5fa2dd/ffffff",
     "price": 5.99,
     "description": "Savory wraps with buffalo chicken and fresh vegetables.",
-    "category": "Food - Prepared Meals"
+    "category": "Food - Prepared Meals",
+    "stock": 14
   },
   {
     "id": 230,
@@ -1837,7 +2066,8 @@
     "image": "http://dummyimage.com/101x100.png/dddddd/000000",
     "price": 4.99,
     "description": "Homemade jam made with blueberries and chia seeds, no added sugar.",
-    "category": "Food - Spreads"
+    "category": "Food - Spreads",
+    "stock": 16
   },
   {
     "id": 231,
@@ -1845,7 +2075,8 @@
     "image": "http://dummyimage.com/219x100.png/dddddd/000000",
     "price": 3.29,
     "description": "A sweet and spicy sauce for dipping or cooking.",
-    "category": "Food - Sauces"
+    "category": "Food - Sauces",
+    "stock": 9
   },
   {
     "id": 232,
@@ -1853,7 +2084,8 @@
     "image": "http://dummyimage.com/249x100.png/5fa2dd/ffffff",
     "price": 12.99,
     "description": "Portable mixer bottle for smoothies and protein shakes.",
-    "category": "Fitness"
+    "category": "Fitness",
+    "stock": 29
   },
   {
     "id": 233,
@@ -1861,7 +2093,8 @@
     "image": "http://dummyimage.com/216x100.png/5fa2dd/ffffff",
     "price": 39.99,
     "description": "Set for making fondue at home.",
-    "category": "Kitchen"
+    "category": "Kitchen",
+    "stock": 15
   },
   {
     "id": 234,
@@ -1869,7 +2102,8 @@
     "image": "http://dummyimage.com/230x100.png/cc0000/ffffff",
     "price": 89.99,
     "description": "Comfortable headset with surround sound for immersive gaming.",
-    "category": "Gaming"
+    "category": "Gaming",
+    "stock": 17
   },
   {
     "id": 235,
@@ -1877,7 +2111,8 @@
     "image": "http://dummyimage.com/164x100.png/ff4444/ffffff",
     "price": 5.49,
     "description": "Pre-seasoned beef mix for delicious tacos, just heat and serve.",
-    "category": "Food - Meat"
+    "category": "Food - Meat",
+    "stock": 24
   },
   {
     "id": 236,
@@ -1885,7 +2120,8 @@
     "image": "http://dummyimage.com/170x100.png/ff4444/ffffff",
     "price": 19.99,
     "description": "Wearable diffuser for scenting your space and body.",
-    "category": "Health"
+    "category": "Health",
+    "stock": 28
   },
   {
     "id": 237,
@@ -1893,7 +2129,8 @@
     "image": "http://dummyimage.com/185x100.png/5fa2dd/ffffff",
     "price": 4.99,
     "description": "Everything you need for a fresh and delicious Caesar salad.",
-    "category": "Food - Salads"
+    "category": "Food - Salads",
+    "stock": 2
   },
   {
     "id": 238,
@@ -1901,7 +2138,8 @@
     "image": "http://dummyimage.com/150x100.png/ff4444/ffffff",
     "price": 9.99,
     "description": "Rich tart filled with chocolate and raspberry, a gourmet dessert.",
-    "category": "Food - Bakery"
+    "category": "Food - Bakery",
+    "stock": 6
   },
   {
     "id": 239,
@@ -1909,7 +2147,8 @@
     "image": "http://dummyimage.com/114x100.png/cc0000/ffffff",
     "price": 3.99,
     "description": "Creamy vegan dressing made with cashews, perfect for salads.",
-    "category": "Food - Condiments"
+    "category": "Food - Condiments",
+    "stock": 4
   },
   {
     "id": 240,
@@ -1917,7 +2156,8 @@
     "image": "http://dummyimage.com/194x100.png/5fa2dd/ffffff",
     "price": 5.99,
     "description": "Crunchy granola made with organic oats",
-    "category": "Food - Breakfast"
+    "category": "Food - Breakfast",
+    "stock": 6
   },
   {
     "id": 241,
@@ -1925,7 +2165,8 @@
     "image": "http://dummyimage.com/245x100.png/ff4444/ffffff",
     "price": 2.99,
     "description": "A flavorful rice side dish seasoned with herbs and spices.",
-    "category": "Food - Sides"
+    "category": "Food - Sides",
+    "stock": 4
   },
   {
     "id": 242,
@@ -1933,7 +2174,8 @@
     "image": "http://dummyimage.com/199x100.png/ff4444/ffffff",
     "price": 39.99,
     "description": "Multi-port USB-C hub for connecting devices.",
-    "category": "Computers"
+    "category": "Computers",
+    "stock": 18
   },
   {
     "id": 243,
@@ -1941,7 +2183,8 @@
     "image": "http://dummyimage.com/117x100.png/dddddd/000000",
     "price": 3.99,
     "description": "Fresh sliced bell peppers for salads or stir-fries.",
-    "category": "Food - Fresh Produce"
+    "category": "Food - Fresh Produce",
+    "stock": 10
   },
   {
     "id": 244,
@@ -1949,7 +2192,8 @@
     "image": "http://dummyimage.com/102x100.png/ff4444/ffffff",
     "price": 39.99,
     "description": "Breathable polo shirt designed for both style and comfort on the greens.",
-    "category": "Clothing - Tops"
+    "category": "Clothing - Tops",
+    "stock": 9
   },
   {
     "id": 245,
@@ -1957,7 +2201,8 @@
     "image": "http://dummyimage.com/131x100.png/cc0000/ffffff",
     "price": 299.99,
     "description": "Energy-efficient window air conditioner for cooling.",
-    "category": "Home Appliances"
+    "category": "Home Appliances",
+    "stock": 12
   },
   {
     "id": 246,
@@ -1965,7 +2210,8 @@
     "image": "http://dummyimage.com/137x100.png/5fa2dd/ffffff",
     "price": 1.29,
     "description": "Concentrated tomato paste, great for sauces.",
-    "category": "Food - Canned Goods"
+    "category": "Food - Canned Goods",
+    "stock": 13
   },
   {
     "id": 247,
@@ -1973,7 +2219,8 @@
     "image": "http://dummyimage.com/223x100.png/dddddd/000000",
     "price": 9.99,
     "description": "Salmon fillets seasoned with lemon and dill, perfect for grilling.",
-    "category": "Food - Seafood"
+    "category": "Food - Seafood",
+    "stock": 10
   },
   {
     "id": 248,
@@ -1981,7 +2228,8 @@
     "image": "http://dummyimage.com/249x100.png/dddddd/000000",
     "price": 34.99,
     "description": "String lights for decorating holiday trees.",
-    "category": "Home"
+    "category": "Home",
+    "stock": 23
   },
   {
     "id": 249,
@@ -1989,7 +2237,8 @@
     "image": "http://dummyimage.com/132x100.png/5fa2dd/ffffff",
     "price": 3.49,
     "description": "Sweet and savory carrots glazed in honey, perfect as a side dish.",
-    "category": "Food - Produce"
+    "category": "Food - Produce",
+    "stock": 26
   },
   {
     "id": 250,
@@ -1997,7 +2246,8 @@
     "image": "http://dummyimage.com/121x100.png/cc0000/ffffff",
     "price": 29.99,
     "description": "Sand-resistant and compact for outdoor and beach use.",
-    "category": "Outdoor"
+    "category": "Outdoor",
+    "stock": 8
   },
   {
     "id": 251,
@@ -2005,7 +2255,8 @@
     "image": "http://dummyimage.com/240x100.png/5fa2dd/ffffff",
     "price": 3.49,
     "description": "Healthy whole grain cereal, great for breakfast.",
-    "category": "Food - Breakfast"
+    "category": "Food - Breakfast",
+    "stock": 7
   },
   {
     "id": 252,
@@ -2013,7 +2264,8 @@
     "image": "http://dummyimage.com/224x100.png/dddddd/000000",
     "price": 59.99,
     "description": "Portable desk that can be adjusted for sitting or standing.",
-    "category": "Office"
+    "category": "Office",
+    "stock": 11
   },
   {
     "id": 253,
@@ -2021,7 +2273,8 @@
     "image": "http://dummyimage.com/207x100.png/5fa2dd/ffffff",
     "price": 199.99,
     "description": "Ergonomic office chair with lumbar support and adjustable height.",
-    "category": "Furniture"
+    "category": "Furniture",
+    "stock": 14
   },
   {
     "id": 254,
@@ -2029,7 +2282,8 @@
     "image": "http://dummyimage.com/175x100.png/dddddd/000000",
     "price": 6.29,
     "description": "Delicious veggie burgers loaded with grilled vegetables.",
-    "category": "Food - Meat Alternatives"
+    "category": "Food - Meat Alternatives",
+    "stock": 12
   },
   {
     "id": 255,
@@ -2037,7 +2291,8 @@
     "image": "http://dummyimage.com/122x100.png/dddddd/000000",
     "price": 4.59,
     "description": "Freshly baked artisan bread, perfect for sandwiches or toasting.",
-    "category": "Food - Bakery"
+    "category": "Food - Bakery",
+    "stock": 28
   },
   {
     "id": 256,
@@ -2045,7 +2300,8 @@
     "image": "http://dummyimage.com/141x100.png/cc0000/ffffff",
     "price": 3.69,
     "description": "Refreshing cranberry juice with no added sugar.",
-    "category": "Food - Beverages"
+    "category": "Food - Beverages",
+    "stock": 21
   },
   {
     "id": 257,
@@ -2053,7 +2309,8 @@
     "image": "http://dummyimage.com/222x100.png/ff4444/ffffff",
     "price": 4.29,
     "description": "A sweet and tart jam, perfect on toast or in desserts.",
-    "category": "Food - Condiments"
+    "category": "Food - Condiments",
+    "stock": 14
   },
   {
     "id": 258,
@@ -2061,7 +2318,8 @@
     "image": "http://dummyimage.com/100x100.png/cc0000/ffffff",
     "price": 49.99,
     "description": "Genuine leather wallet with multiple compartments.",
-    "category": "Accessories"
+    "category": "Accessories",
+    "stock": 30
   },
   {
     "id": 259,
@@ -2069,7 +2327,8 @@
     "image": "http://dummyimage.com/235x100.png/dddddd/000000",
     "price": 3.49,
     "description": "Unsweetened coconut flakes for baking and snacking.",
-    "category": "Food - Baking"
+    "category": "Food - Baking",
+    "stock": 30
   },
   {
     "id": 260,
@@ -2077,7 +2336,8 @@
     "image": "http://dummyimage.com/123x100.png/5fa2dd/ffffff",
     "price": 2.49,
     "description": "Delicious canned pineapple rings for desserts or salads.",
-    "category": "Food - Canned Goods"
+    "category": "Food - Canned Goods",
+    "stock": 19
   },
   {
     "id": 261,
@@ -2085,7 +2345,8 @@
     "image": "http://dummyimage.com/135x100.png/cc0000/ffffff",
     "price": 3.59,
     "description": "Crunchy, toasted coconut chips for snacking.",
-    "category": "Food - Snacks"
+    "category": "Food - Snacks",
+    "stock": 10
   },
   {
     "id": 262,
@@ -2093,7 +2354,8 @@
     "image": "http://dummyimage.com/180x100.png/ff4444/ffffff",
     "price": 3.99,
     "description": "Light and crunchy rice cakes made from organic brown rice.",
-    "category": "Food - Snacks"
+    "category": "Food - Snacks",
+    "stock": 17
   },
   {
     "id": 263,
@@ -2101,7 +2363,8 @@
     "image": "http://dummyimage.com/176x100.png/cc0000/ffffff",
     "price": 24.99,
     "description": "Durable gloves with built-in claws for digging and planting.",
-    "category": "Garden"
+    "category": "Garden",
+    "stock": 6
   },
   {
     "id": 264,
@@ -2109,7 +2372,8 @@
     "image": "http://dummyimage.com/122x100.png/dddddd/000000",
     "price": 2.69,
     "description": "Soft hamburger buns made with whole grains.",
-    "category": "Food - Bakery"
+    "category": "Food - Bakery",
+    "stock": 11
   },
   {
     "id": 265,
@@ -2117,7 +2381,8 @@
     "image": "http://dummyimage.com/201x100.png/dddddd/000000",
     "price": 2.79,
     "description": "Rich and creamy almond milk with a hint of chocolate.",
-    "category": "Food - Dairy Alternatives"
+    "category": "Food - Dairy Alternatives",
+    "stock": 28
   },
   {
     "id": 266,
@@ -2125,7 +2390,8 @@
     "image": "http://dummyimage.com/119x100.png/cc0000/ffffff",
     "price": 9.99,
     "description": "Tool for measuring perfect pasta portions every time.",
-    "category": "Kitchen"
+    "category": "Kitchen",
+    "stock": 24
   },
   {
     "id": 267,
@@ -2133,7 +2399,8 @@
     "image": "http://dummyimage.com/232x100.png/ff4444/ffffff",
     "price": 5.99,
     "description": "Frozen berries blend perfect for smoothies, just add yogurt.",
-    "category": "Food - Frozen Food"
+    "category": "Food - Frozen Food",
+    "stock": 23
   },
   {
     "id": 268,
@@ -2141,7 +2408,8 @@
     "image": "http://dummyimage.com/203x100.png/5fa2dd/ffffff",
     "price": 29.99,
     "description": "Heavy-duty bicycle lock for security.",
-    "category": "Bicycles"
+    "category": "Bicycles",
+    "stock": 3
   },
   {
     "id": 269,
@@ -2149,7 +2417,8 @@
     "image": "http://dummyimage.com/247x100.png/ff4444/ffffff",
     "price": 7.99,
     "description": "Marinated chicken skewers infused with traditional tandoori spices.",
-    "category": "Food - Meat"
+    "category": "Food - Meat",
+    "stock": 13
   },
   {
     "id": 270,
@@ -2157,7 +2426,8 @@
     "image": "http://dummyimage.com/203x100.png/ff4444/ffffff",
     "price": 19.99,
     "description": "Set of five reusable fabric face masks.",
-    "category": "Health"
+    "category": "Health",
+    "stock": 3
   },
   {
     "id": 271,
@@ -2165,7 +2435,8 @@
     "image": "http://dummyimage.com/197x100.png/5fa2dd/ffffff",
     "price": 5.49,
     "description": "A frozen cheesy bake made with cauliflower, great as a side dish or a vegetarian meal.",
-    "category": "Food - Frozen Vegetables"
+    "category": "Food - Frozen Vegetables",
+    "stock": 6
   },
   {
     "id": 272,
@@ -2173,7 +2444,8 @@
     "image": "http://dummyimage.com/124x100.png/dddddd/000000",
     "price": 3.99,
     "description": "Rich and buttery mashed potatoes with roasted garlic.",
-    "category": "Food - Sides"
+    "category": "Food - Sides",
+    "stock": 30
   },
   {
     "id": 273,
@@ -2181,7 +2453,8 @@
     "image": "http://dummyimage.com/147x100.png/5fa2dd/ffffff",
     "price": 2.79,
     "description": "Soft and fluffy whole wheat pita bread, great for wraps.",
-    "category": "Food - Bread"
+    "category": "Food - Bread",
+    "stock": 30
   },
   {
     "id": 274,
@@ -2189,7 +2462,8 @@
     "image": "http://dummyimage.com/125x100.png/5fa2dd/ffffff",
     "price": 39.99,
     "description": "Compact hair dryer with multiple heat settings.",
-    "category": "Beauty"
+    "category": "Beauty",
+    "stock": 16
   },
   {
     "id": 275,
@@ -2197,7 +2471,8 @@
     "image": "http://dummyimage.com/132x100.png/dddddd/000000",
     "price": 69.99,
     "description": "Adjustable shelving unit for home or garage storage.",
-    "category": "Home"
+    "category": "Home",
+    "stock": 20
   },
   {
     "id": 276,
@@ -2205,7 +2480,8 @@
     "image": "http://dummyimage.com/174x100.png/dddddd/000000",
     "price": 2.29,
     "description": "Light and crispy rice cakes, a perfect low-calorie snack.",
-    "category": "Food - Snacks"
+    "category": "Food - Snacks",
+    "stock": 21
   },
   {
     "id": 277,
@@ -2213,7 +2489,8 @@
     "image": "http://dummyimage.com/162x100.png/ff4444/ffffff",
     "price": 25.99,
     "description": "Complete sculpting tools for artists.",
-    "category": "Art Supplies"
+    "category": "Art Supplies",
+    "stock": 9
   },
   {
     "id": 278,
@@ -2221,7 +2498,8 @@
     "image": "http://dummyimage.com/220x100.png/cc0000/ffffff",
     "price": 0.99,
     "description": "Essential ingredient for baking and cooking.",
-    "category": "Food - Baking"
+    "category": "Food - Baking",
+    "stock": 6
   },
   {
     "id": 279,
@@ -2229,7 +2507,8 @@
     "image": "http://dummyimage.com/213x100.png/ff4444/ffffff",
     "price": 5.99,
     "description": "A frozen meal featuring quinoa and mixed vegetables, ready to heat and eat.",
-    "category": "Food - Frozen Meals"
+    "category": "Food - Frozen Meals",
+    "stock": 6
   },
   {
     "id": 280,
@@ -2237,7 +2516,8 @@
     "image": "http://dummyimage.com/160x100.png/ff4444/ffffff",
     "price": 34.99,
     "description": "Fun robot that engages kids with games and activities.",
-    "category": "Toys"
+    "category": "Toys",
+    "stock": 6
   },
   {
     "id": 281,
@@ -2245,7 +2525,8 @@
     "image": "http://dummyimage.com/206x100.png/cc0000/ffffff",
     "price": 199.99,
     "description": "Beginner-friendly acoustic guitar with natural finish.",
-    "category": "Music"
+    "category": "Music",
+    "stock": 17
   },
   {
     "id": 282,
@@ -2253,7 +2534,8 @@
     "image": "http://dummyimage.com/199x100.png/cc0000/ffffff",
     "price": 8.99,
     "description": "Spicy blue cheese with a hint of buffalo flavor.",
-    "category": "Food - Cheese"
+    "category": "Food - Cheese",
+    "stock": 19
   },
   {
     "id": 283,
@@ -2261,7 +2543,8 @@
     "image": "http://dummyimage.com/146x100.png/cc0000/ffffff",
     "price": 49.99,
     "description": "Adjustable stand to improve ergonomics while working on a laptop.",
-    "category": "Office"
+    "category": "Office",
+    "stock": 3
   },
   {
     "id": 284,
@@ -2269,7 +2552,8 @@
     "image": "http://dummyimage.com/205x100.png/dddddd/000000",
     "price": 9.99,
     "description": "Salmon fillets seasoned with lemon and dill, perfect for grilling.",
-    "category": "Food - Seafood"
+    "category": "Food - Seafood",
+    "stock": 26
   },
   {
     "id": 285,
@@ -2277,7 +2561,8 @@
     "image": "http://dummyimage.com/185x100.png/ff4444/ffffff",
     "price": 2.99,
     "description": "A flavorful rice side dish seasoned with herbs and spices.",
-    "category": "Food - Sides"
+    "category": "Food - Sides",
+    "stock": 12
   },
   {
     "id": 286,
@@ -2285,7 +2570,8 @@
     "image": "http://dummyimage.com/244x100.png/cc0000/ffffff",
     "price": 59.99,
     "description": "Instant hot water dispenser for tea and cooking.",
-    "category": "Kitchen"
+    "category": "Kitchen",
+    "stock": 11
   },
   {
     "id": 287,
@@ -2293,7 +2579,8 @@
     "image": "http://dummyimage.com/190x100.png/cc0000/ffffff",
     "price": 14.99,
     "description": "Stylish holder for organizing cooking utensils.",
-    "category": "Kitchen"
+    "category": "Kitchen",
+    "stock": 29
   },
   {
     "id": 288,
@@ -2301,7 +2588,8 @@
     "image": "http://dummyimage.com/131x100.png/5fa2dd/ffffff",
     "price": 149.99,
     "description": "Lightweight leaf blower for maintaining outdoor spaces.",
-    "category": "Outdoor"
+    "category": "Outdoor",
+    "stock": 20
   },
   {
     "id": 289,
@@ -2309,7 +2597,8 @@
     "image": "http://dummyimage.com/201x100.png/5fa2dd/ffffff",
     "price": 4.99,
     "description": "Savory pancakes made with chickpea flour, high in protein.",
-    "category": "Food - Frozen"
+    "category": "Food - Frozen",
+    "stock": 29
   },
   {
     "id": 290,
@@ -2317,7 +2606,8 @@
     "image": "http://dummyimage.com/234x100.png/5fa2dd/ffffff",
     "price": 4.99,
     "description": "A hearty soup made with organic lentils and vegetables.",
-    "category": "Food - Soups"
+    "category": "Food - Soups",
+    "stock": 21
   },
   {
     "id": 291,
@@ -2325,7 +2615,8 @@
     "image": "http://dummyimage.com/218x100.png/5fa2dd/ffffff",
     "price": 5.99,
     "description": "Savory wraps with buffalo chicken and fresh vegetables.",
-    "category": "Food - Prepared Meals"
+    "category": "Food - Prepared Meals",
+    "stock": 4
   },
   {
     "id": 292,
@@ -2333,7 +2624,8 @@
     "image": "http://dummyimage.com/228x100.png/5fa2dd/ffffff",
     "price": 3.99,
     "description": "Dried tomatoes packed with deep flavor for salads and pasta.",
-    "category": "Food - Vegetables"
+    "category": "Food - Vegetables",
+    "stock": 7
   },
   {
     "id": 293,
@@ -2341,7 +2633,8 @@
     "image": "http://dummyimage.com/200x100.png/dddddd/000000",
     "price": 3.49,
     "description": "Spicy salsa made with black beans and tomatoes.",
-    "category": "Food - Snacks"
+    "category": "Food - Snacks",
+    "stock": 8
   },
   {
     "id": 294,
@@ -2349,7 +2642,8 @@
     "image": "http://dummyimage.com/192x100.png/ff4444/ffffff",
     "price": 24.99,
     "description": "Complete set of cooking utensils made from bamboo.",
-    "category": "Kitchen"
+    "category": "Kitchen",
+    "stock": 7
   },
   {
     "id": 295,
@@ -2357,7 +2651,8 @@
     "image": "http://dummyimage.com/117x100.png/ff4444/ffffff",
     "price": 14.99,
     "description": "Classic wooden puzzle game for kids and adults.",
-    "category": "Toys"
+    "category": "Toys",
+    "stock": 4
   },
   {
     "id": 296,
@@ -2365,7 +2660,8 @@
     "image": "http://dummyimage.com/157x100.png/ff4444/ffffff",
     "price": 29.99,
     "description": "Rechargeable electric wine opener for effortless uncorking.",
-    "category": "Kitchen"
+    "category": "Kitchen",
+    "stock": 29
   },
   {
     "id": 297,
@@ -2373,7 +2669,8 @@
     "image": "http://dummyimage.com/236x100.png/ff4444/ffffff",
     "price": 299.99,
     "description": "Ergonomic desk that adjusts height for standing or sitting.",
-    "category": "Office"
+    "category": "Office",
+    "stock": 16
   },
   {
     "id": 298,
@@ -2381,7 +2678,8 @@
     "image": "http://dummyimage.com/244x100.png/cc0000/ffffff",
     "price": 3.59,
     "description": "Freshly baked rustic bread, perfect for sandwiches or dipping in olive oil.",
-    "category": "Food - Bakery"
+    "category": "Food - Bakery",
+    "stock": 1
   },
   {
     "id": 299,
@@ -2389,7 +2687,8 @@
     "image": "http://dummyimage.com/237x100.png/cc0000/ffffff",
     "price": 18.99,
     "description": "Eco-friendly meal prep containers for healthy eating.",
-    "category": "Kitchen"
+    "category": "Kitchen",
+    "stock": 12
   },
   {
     "id": 300,
@@ -2397,7 +2696,8 @@
     "image": "http://dummyimage.com/112x100.png/5fa2dd/ffffff",
     "price": 15.99,
     "description": "Adjustable dog collar with personalized tags.",
-    "category": "Pets"
+    "category": "Pets",
+    "stock": 6
   },
   {
     "id": 301,
@@ -2405,7 +2705,8 @@
     "image": "http://dummyimage.com/192x100.png/dddddd/000000",
     "price": 19.99,
     "description": "Stream music from your device to any speaker wirelessly.",
-    "category": "Audio"
+    "category": "Audio",
+    "stock": 28
   },
   {
     "id": 302,
@@ -2413,7 +2714,8 @@
     "image": "http://dummyimage.com/110x100.png/cc0000/ffffff",
     "price": 4.99,
     "description": "Crunchy granola with toasted coconut flakes, perfect for breakfast or snacks.",
-    "category": "Food - Breakfast"
+    "category": "Food - Breakfast",
+    "stock": 18
   },
   {
     "id": 303,
@@ -2421,7 +2723,8 @@
     "image": "http://dummyimage.com/208x100.png/ff4444/ffffff",
     "price": 99.99,
     "description": "Smart speaker with Alexa and music streaming features.",
-    "category": "Audio"
+    "category": "Audio",
+    "stock": 8
   },
   {
     "id": 304,
@@ -2429,7 +2732,8 @@
     "image": "http://dummyimage.com/121x100.png/5fa2dd/ffffff",
     "price": 69.99,
     "description": "Easy-to-set-up picnic table for outdoor dining.",
-    "category": "Outdoor"
+    "category": "Outdoor",
+    "stock": 16
   },
   {
     "id": 305,
@@ -2437,7 +2741,8 @@
     "image": "http://dummyimage.com/193x100.png/dddddd/000000",
     "price": 2.29,
     "description": "Fresh cabbage and carrot slaw mix for salads.",
-    "category": "Food - Vegetables"
+    "category": "Food - Vegetables",
+    "stock": 1
   },
   {
     "id": 306,
@@ -2445,7 +2750,8 @@
     "image": "http://dummyimage.com/237x100.png/5fa2dd/ffffff",
     "price": 24.99,
     "description": "Compact fan for personal cooling at work or home.",
-    "category": "Home"
+    "category": "Home",
+    "stock": 15
   },
   {
     "id": 307,
@@ -2453,7 +2759,8 @@
     "image": "http://dummyimage.com/223x100.png/ff4444/ffffff",
     "price": 2.99,
     "description": "Delicious maple-flavored oatmeal for a quick breakfast.",
-    "category": "Food - Breakfast"
+    "category": "Food - Breakfast",
+    "stock": 23
   },
   {
     "id": 308,
@@ -2461,7 +2768,8 @@
     "image": "http://dummyimage.com/107x100.png/dddddd/000000",
     "price": 15.99,
     "description": "Organize travel documents, passport, and cards.",
-    "category": "Travel"
+    "category": "Travel",
+    "stock": 3
   },
   {
     "id": 309,
@@ -2469,7 +2777,8 @@
     "image": "http://dummyimage.com/213x100.png/ff4444/ffffff",
     "price": 2.49,
     "description": "Creamy soup full of rich mushroom flavor.",
-    "category": "Food - Canned Goods"
+    "category": "Food - Canned Goods",
+    "stock": 20
   },
   {
     "id": 310,
@@ -2477,7 +2786,8 @@
     "image": "http://dummyimage.com/226x100.png/ff4444/ffffff",
     "price": 79.99,
     "description": "Smart tailored dress pants, perfect for work or formal events.",
-    "category": "Clothing - Bottoms"
+    "category": "Clothing - Bottoms",
+    "stock": 17
   },
   {
     "id": 311,
@@ -2485,7 +2795,8 @@
     "image": "http://dummyimage.com/249x100.png/5fa2dd/ffffff",
     "price": 14.99,
     "description": "Journal to record workouts and nutrition.",
-    "category": "Fitness"
+    "category": "Fitness",
+    "stock": 1
   },
   {
     "id": 312,
@@ -2493,7 +2804,8 @@
     "image": "http://dummyimage.com/154x100.png/ff4444/ffffff",
     "price": 19.99,
     "description": "Compact storage for your jewelry while traveling.",
-    "category": "Accessories"
+    "category": "Accessories",
+    "stock": 2
   },
   {
     "id": 313,
@@ -2501,7 +2813,8 @@
     "image": "http://dummyimage.com/232x100.png/cc0000/ffffff",
     "price": 299.99,
     "description": "Retro arcade machine for classic gaming.",
-    "category": "Gaming"
+    "category": "Gaming",
+    "stock": 29
   },
   {
     "id": 314,
@@ -2509,7 +2822,8 @@
     "image": "http://dummyimage.com/103x100.png/dddddd/000000",
     "price": 59.99,
     "description": "Cozy oversized sweater perfect for chilly days with a textured knit design.",
-    "category": "Clothing - Tops"
+    "category": "Clothing - Tops",
+    "stock": 18
   },
   {
     "id": 315,
@@ -2517,7 +2831,8 @@
     "image": "http://dummyimage.com/123x100.png/ff4444/ffffff",
     "price": 29.99,
     "description": "Breathable tank top perfect for workouts or casual wear.",
-    "category": "Clothing - Activewear"
+    "category": "Clothing - Activewear",
+    "stock": 5
   },
   {
     "id": 316,
@@ -2525,7 +2840,8 @@
     "image": "http://dummyimage.com/204x100.png/5fa2dd/ffffff",
     "price": 14.99,
     "description": "Eco-friendly mesh bags for shopping produce at the market.",
-    "category": "Kitchen"
+    "category": "Kitchen",
+    "stock": 17
   },
   {
     "id": 317,
@@ -2533,7 +2849,8 @@
     "image": "http://dummyimage.com/194x100.png/5fa2dd/ffffff",
     "price": 3.99,
     "description": "A flavorful blend of rice with tropical pineapple and coconut flavors.",
-    "category": "Food - Grains"
+    "category": "Food - Grains",
+    "stock": 3
   },
   {
     "id": 318,
@@ -2541,7 +2858,8 @@
     "image": "http://dummyimage.com/196x100.png/5fa2dd/ffffff",
     "price": 3.99,
     "description": "Healthy energy bites made with oats and natural sweeteners.",
-    "category": "Food - Snacks"
+    "category": "Food - Snacks",
+    "stock": 24
   },
   {
     "id": 319,
@@ -2549,7 +2867,8 @@
     "image": "http://dummyimage.com/188x100.png/ff4444/ffffff",
     "price": 3.79,
     "description": "A spicy marinade perfect for chicken and fish.",
-    "category": "Food - Marinades"
+    "category": "Food - Marinades",
+    "stock": 16
   },
   {
     "id": 320,
@@ -2557,7 +2876,8 @@
     "image": "http://dummyimage.com/104x100.png/5fa2dd/ffffff",
     "price": 3.99,
     "description": "Tangy vinaigrette with orange and ginger flavors.",
-    "category": "Food - Condiments"
+    "category": "Food - Condiments",
+    "stock": 14
   },
   {
     "id": 321,
@@ -2565,7 +2885,8 @@
     "image": "http://dummyimage.com/189x100.png/cc0000/ffffff",
     "price": 17.99,
     "description": "Tidy storage solution for rechargeable batteries.",
-    "category": "Home"
+    "category": "Home",
+    "stock": 1
   },
   {
     "id": 322,
@@ -2573,7 +2894,8 @@
     "image": "http://dummyimage.com/161x100.png/5fa2dd/ffffff",
     "price": 22.99,
     "description": "Space-saving solution to store shoes and keep them organized.",
-    "category": "Home"
+    "category": "Home",
+    "stock": 9
   },
   {
     "id": 323,
@@ -2581,7 +2903,8 @@
     "image": "http://dummyimage.com/115x100.png/5fa2dd/ffffff",
     "price": 6.99,
     "description": "Savory pizza rolls filled with pepperoni and cheese, ready to bake and enjoy in minutes.",
-    "category": "Food - Snacks"
+    "category": "Food - Snacks",
+    "stock": 17
   },
   {
     "id": 324,
@@ -2589,7 +2912,8 @@
     "image": "http://dummyimage.com/159x100.png/cc0000/ffffff",
     "price": 14.99,
     "description": "Rugged phone case for drop protection.",
-    "category": "Accessories"
+    "category": "Accessories",
+    "stock": 12
   },
   {
     "id": 325,
@@ -2597,7 +2921,8 @@
     "image": "http://dummyimage.com/107x100.png/cc0000/ffffff",
     "price": 129.99,
     "description": "Adds extra comfort to your mattress for a better night's sleep.",
-    "category": "Home"
+    "category": "Home",
+    "stock": 12
   },
   {
     "id": 326,
@@ -2605,7 +2930,8 @@
     "image": "http://dummyimage.com/234x100.png/dddddd/000000",
     "price": 4.99,
     "description": "A fluffy pancake mix infused with maple and pecans, perfect for a hearty breakfast.",
-    "category": "Food - Breakfast"
+    "category": "Food - Breakfast",
+    "stock": 28
   },
   {
     "id": 327,
@@ -2613,7 +2939,8 @@
     "image": "http://dummyimage.com/116x100.png/ff4444/ffffff",
     "price": 19.99,
     "description": "High-intensity flashlight with adjustable focus and brightness.",
-    "category": "Outdoor"
+    "category": "Outdoor",
+    "stock": 20
   },
   {
     "id": 328,
@@ -2621,7 +2948,8 @@
     "image": "http://dummyimage.com/100x100.png/ff4444/ffffff",
     "price": 19.99,
     "description": "Sleek and protective sleeve for laptops and tablets.",
-    "category": "Accessories"
+    "category": "Accessories",
+    "stock": 24
   },
   {
     "id": 329,
@@ -2629,7 +2957,8 @@
     "image": "http://dummyimage.com/239x100.png/ff4444/ffffff",
     "price": 19.99,
     "description": "Create spiraled vegetable noodles easily for healthy meals.",
-    "category": "Kitchen"
+    "category": "Kitchen",
+    "stock": 11
   },
   {
     "id": 330,
@@ -2637,7 +2966,8 @@
     "image": "http://dummyimage.com/171x100.png/ff4444/ffffff",
     "price": 3.99,
     "description": "Freshly baked artisan bread with a crisp crust and soft center.",
-    "category": "Food - Bakery"
+    "category": "Food - Bakery",
+    "stock": 23
   },
   {
     "id": 331,
@@ -2645,7 +2975,8 @@
     "image": "http://dummyimage.com/214x100.png/dddddd/000000",
     "price": 69.99,
     "description": "True wireless earbuds with touch control.",
-    "category": "Audio"
+    "category": "Audio",
+    "stock": 25
   },
   {
     "id": 332,
@@ -2653,7 +2984,8 @@
     "image": "http://dummyimage.com/171x100.png/dddddd/000000",
     "price": 14.99,
     "description": "Convenient holder for drinks and phones while driving.",
-    "category": "Automotive"
+    "category": "Automotive",
+    "stock": 20
   },
   {
     "id": 333,
@@ -2661,7 +2993,8 @@
     "image": "http://dummyimage.com/113x100.png/ff4444/ffffff",
     "price": 39.99,
     "description": "Rechargeable screwdriver with multiple bits for DIY projects.",
-    "category": "Tools"
+    "category": "Tools",
+    "stock": 20
   },
   {
     "id": 334,
@@ -2669,7 +3002,8 @@
     "image": "http://dummyimage.com/230x100.png/dddddd/000000",
     "price": 29.99,
     "description": "Comprehensive first aid kit for emergency situations.",
-    "category": "Health"
+    "category": "Health",
+    "stock": 20
   },
   {
     "id": 335,
@@ -2677,7 +3011,8 @@
     "image": "http://dummyimage.com/111x100.png/dddddd/000000",
     "price": 5.99,
     "description": "Fruits dipped in rich chocolate, perfect for desserts.",
-    "category": "Food - Snacks"
+    "category": "Food - Snacks",
+    "stock": 10
   },
   {
     "id": 336,
@@ -2685,7 +3020,8 @@
     "image": "http://dummyimage.com/104x100.png/ff4444/ffffff",
     "price": 5.99,
     "description": "A frozen meal featuring quinoa and mixed vegetables, ready to heat and eat.",
-    "category": "Food - Frozen Meals"
+    "category": "Food - Frozen Meals",
+    "stock": 28
   },
   {
     "id": 337,
@@ -2693,7 +3029,8 @@
     "image": "http://dummyimage.com/162x100.png/5fa2dd/ffffff",
     "price": 22.99,
     "description": "Set of decorative pillow covers to enhance your home decor.",
-    "category": "Home"
+    "category": "Home",
+    "stock": 1
   },
   {
     "id": 338,
@@ -2701,7 +3038,8 @@
     "image": "http://dummyimage.com/217x100.png/dddddd/000000",
     "price": 44.99,
     "description": "Complete set to brew coffee with different methods.",
-    "category": "Kitchen"
+    "category": "Kitchen",
+    "stock": 17
   },
   {
     "id": 339,
@@ -2709,7 +3047,8 @@
     "image": "http://dummyimage.com/127x100.png/ff4444/ffffff",
     "price": 2.99,
     "description": "A sweet and spicy sauce, great for dipping or cooking.",
-    "category": "Food - Condiments"
+    "category": "Food - Condiments",
+    "stock": 15
   },
   {
     "id": 340,
@@ -2717,7 +3056,8 @@
     "image": "http://dummyimage.com/224x100.png/5fa2dd/ffffff",
     "price": 2.29,
     "description": "Creamy dessert made with rice and cinnamon.",
-    "category": "Food - Desserts"
+    "category": "Food - Desserts",
+    "stock": 30
   },
   {
     "id": 341,
@@ -2725,7 +3065,8 @@
     "image": "http://dummyimage.com/237x100.png/5fa2dd/ffffff",
     "price": 7.99,
     "description": "Marinated chicken skewers infused with traditional tandoori spices.",
-    "category": "Food - Meat"
+    "category": "Food - Meat",
+    "stock": 13
   },
   {
     "id": 342,
@@ -2733,7 +3074,8 @@
     "image": "http://dummyimage.com/159x100.png/ff4444/ffffff",
     "price": 59.99,
     "description": "Durable speaker designed for outdoor use with water resistance.",
-    "category": "Audio"
+    "category": "Audio",
+    "stock": 5
   },
   {
     "id": 343,
@@ -2741,7 +3083,8 @@
     "image": "http://dummyimage.com/163x100.png/5fa2dd/ffffff",
     "price": 29.99,
     "description": "Soft and breathable cotton sweatpants perfect for lounging or workouts.",
-    "category": "Clothing - Bottoms"
+    "category": "Clothing - Bottoms",
+    "stock": 15
   },
   {
     "id": 344,
@@ -2749,7 +3092,8 @@
     "image": "http://dummyimage.com/217x100.png/ff4444/ffffff",
     "price": 6.99,
     "description": "Everything you need to build a festive gingerbread house.",
-    "category": "Food - Baking"
+    "category": "Food - Baking",
+    "stock": 25
   },
   {
     "id": 345,
@@ -2757,7 +3101,8 @@
     "image": "http://dummyimage.com/244x100.png/cc0000/ffffff",
     "price": 2.99,
     "description": "Delicious maple-flavored oatmeal for a quick breakfast.",
-    "category": "Food - Breakfast"
+    "category": "Food - Breakfast",
+    "stock": 3
   },
   {
     "id": 346,
@@ -2765,7 +3110,8 @@
     "image": "http://dummyimage.com/158x100.png/5fa2dd/ffffff",
     "price": 4.29,
     "description": "Savory roasted garlic in a jar for easy use.",
-    "category": "Food - Condiments"
+    "category": "Food - Condiments",
+    "stock": 26
   },
   {
     "id": 347,
@@ -2773,7 +3119,8 @@
     "image": "http://dummyimage.com/224x100.png/dddddd/000000",
     "price": 3.29,
     "description": "A savory marinade for meats, perfect for grilling.",
-    "category": "Food - Marinades"
+    "category": "Food - Marinades",
+    "stock": 16
   },
   {
     "id": 348,
@@ -2781,7 +3128,8 @@
     "image": "http://dummyimage.com/143x100.png/cc0000/ffffff",
     "price": 9.99,
     "description": "Prevent water damage with drip trays for potted plants.",
-    "category": "Garden"
+    "category": "Garden",
+    "stock": 17
   },
   {
     "id": 349,
@@ -2789,7 +3137,8 @@
     "image": "http://dummyimage.com/219x100.png/dddddd/000000",
     "price": 12.99,
     "description": "Reusable microfiber cloths for environmentally friendly cleaning.",
-    "category": "Home"
+    "category": "Home",
+    "stock": 13
   },
   {
     "id": 350,
@@ -2797,7 +3146,8 @@
     "image": "http://dummyimage.com/144x100.png/ff4444/ffffff",
     "price": 5.49,
     "description": "Oven-roasted sliced turkey, perfect for sandwiches.",
-    "category": "Food - Deli Meats"
+    "category": "Food - Deli Meats",
+    "stock": 21
   },
   {
     "id": 351,
@@ -2805,7 +3155,8 @@
     "image": "http://dummyimage.com/201x100.png/ff4444/ffffff",
     "price": 34.99,
     "description": "Water bottle that tracks hydration levels and adds electrolytes.",
-    "category": "Fitness"
+    "category": "Fitness",
+    "stock": 17
   },
   {
     "id": 352,
@@ -2813,7 +3164,8 @@
     "image": "http://dummyimage.com/249x100.png/ff4444/ffffff",
     "price": 4.99,
     "description": "A tangy sauce that combines lemon zest and basil for a refreshing flavor.",
-    "category": "Food - Sauces"
+    "category": "Food - Sauces",
+    "stock": 27
   },
   {
     "id": 353,
@@ -2821,7 +3173,8 @@
     "image": "http://dummyimage.com/130x100.png/dddddd/000000",
     "price": 5.99,
     "description": "A convenient powder mix combining greens and fruits for smoothies.",
-    "category": "Food - Beverages"
+    "category": "Food - Beverages",
+    "stock": 16
   },
   {
     "id": 354,
@@ -2829,7 +3182,8 @@
     "image": "http://dummyimage.com/232x100.png/5fa2dd/ffffff",
     "price": 29.99,
     "description": "Solar-powered charger for smartphones and tablets.",
-    "category": "Electronics"
+    "category": "Electronics",
+    "stock": 22
   },
   {
     "id": 355,
@@ -2837,7 +3191,8 @@
     "image": "http://dummyimage.com/201x100.png/cc0000/ffffff",
     "price": 49.99,
     "description": "Water bottle with built-in UV-C light for self-cleaning.",
-    "category": "Fitness"
+    "category": "Fitness",
+    "stock": 22
   },
   {
     "id": 356,
@@ -2845,7 +3200,8 @@
     "image": "http://dummyimage.com/115x100.png/ff4444/ffffff",
     "price": 99.99,
     "description": "Multi-level cat tree for climbing and scratching.",
-    "category": "Pets"
+    "category": "Pets",
+    "stock": 4
   },
   {
     "id": 357,
@@ -2853,7 +3209,8 @@
     "image": "http://dummyimage.com/224x100.png/cc0000/ffffff",
     "price": 4.99,
     "description": "Decadent brownies made without gluten, rich and chocolatey.",
-    "category": "Food - Baking"
+    "category": "Food - Baking",
+    "stock": 2
   },
   {
     "id": 358,
@@ -2861,7 +3218,8 @@
     "image": "http://dummyimage.com/171x100.png/ff4444/ffffff",
     "price": 14.99,
     "description": "Sustainable bamboo utensils for cooking and serving.",
-    "category": "Kitchen"
+    "category": "Kitchen",
+    "stock": 5
   },
   {
     "id": 359,
@@ -2869,7 +3227,8 @@
     "image": "http://dummyimage.com/136x100.png/ff4444/ffffff",
     "price": 4.29,
     "description": "A hearty salad with lentils, veggies, and curry dressing.",
-    "category": "Food - Salads"
+    "category": "Food - Salads",
+    "stock": 15
   },
   {
     "id": 360,
@@ -2877,7 +3236,8 @@
     "image": "http://dummyimage.com/239x100.png/ff4444/ffffff",
     "price": 4.49,
     "description": "Fresh fruit salad, ready to eat and refreshing.",
-    "category": "Food - Produce"
+    "category": "Food - Produce",
+    "stock": 9
   },
   {
     "id": 361,
@@ -2885,7 +3245,8 @@
     "image": "http://dummyimage.com/182x100.png/cc0000/ffffff",
     "price": 49.99,
     "description": "Cook rice and steam vegetables simultaneously for healthy meals.",
-    "category": "Kitchen"
+    "category": "Kitchen",
+    "stock": 18
   },
   {
     "id": 362,
@@ -2893,7 +3254,8 @@
     "image": "http://dummyimage.com/153x100.png/ff4444/ffffff",
     "price": 34.99,
     "description": "Brews coffee with a smooth flavor without bitterness.",
-    "category": "Kitchen"
+    "category": "Kitchen",
+    "stock": 11
   },
   {
     "id": 363,
@@ -2901,7 +3263,8 @@
     "image": "http://dummyimage.com/244x100.png/dddddd/000000",
     "price": 4.49,
     "description": "Assorted sliced cheese, perfect for sandwiches.",
-    "category": "Food - Dairy"
+    "category": "Food - Dairy",
+    "stock": 21
   },
   {
     "id": 364,
@@ -2909,7 +3272,8 @@
     "image": "http://dummyimage.com/165x100.png/cc0000/ffffff",
     "price": 34.99,
     "description": "Classic chino shorts in a versatile color for summer adventures.",
-    "category": "Clothing - Bottoms"
+    "category": "Clothing - Bottoms",
+    "stock": 8
   },
   {
     "id": 365,
@@ -2917,7 +3281,8 @@
     "image": "http://dummyimage.com/216x100.png/5fa2dd/ffffff",
     "price": 30,
     "description": "Battery-operated blender for smoothies on the go.",
-    "category": "Kitchen"
+    "category": "Kitchen",
+    "stock": 11
   },
   {
     "id": 366,
@@ -2925,7 +3290,8 @@
     "image": "http://dummyimage.com/155x100.png/cc0000/ffffff",
     "price": 5.99,
     "description": "All-in-one kit for making pasta salad easily.",
-    "category": "Food - Prepared Foods"
+    "category": "Food - Prepared Foods",
+    "stock": 5
   },
   {
     "id": 367,
@@ -2933,7 +3299,8 @@
     "image": "http://dummyimage.com/131x100.png/ff4444/ffffff",
     "price": 4.99,
     "description": "Rich and tangy balsamic vinegar, perfect for dressings.",
-    "category": "Food - Condiments"
+    "category": "Food - Condiments",
+    "stock": 3
   },
   {
     "id": 368,
@@ -2941,7 +3308,8 @@
     "image": "http://dummyimage.com/147x100.png/cc0000/ffffff",
     "price": 69.99,
     "description": "Stay dry with these stylish waterproof rain boots.",
-    "category": "Clothing - Footwear"
+    "category": "Clothing - Footwear",
+    "stock": 17
   },
   {
     "id": 369,
@@ -2949,7 +3317,8 @@
     "image": "http://dummyimage.com/123x100.png/5fa2dd/ffffff",
     "price": 4.89,
     "description": "Savory, roasted nuts seasoned with garlic and parmesan.",
-    "category": "Food - Nuts"
+    "category": "Food - Nuts",
+    "stock": 12
   },
   {
     "id": 370,
@@ -2957,7 +3326,8 @@
     "image": "http://dummyimage.com/188x100.png/cc0000/ffffff",
     "price": 2.99,
     "description": "Freshly baked bagels, perfect for breakfast or snacks.",
-    "category": "Food - Bakery"
+    "category": "Food - Bakery",
+    "stock": 4
   },
   {
     "id": 371,
@@ -2965,7 +3335,8 @@
     "image": "http://dummyimage.com/204x100.png/dddddd/000000",
     "price": 1.49,
     "description": "Plain white rice, a staple for any meal.",
-    "category": "Food - Grains"
+    "category": "Food - Grains",
+    "stock": 8
   },
   {
     "id": 372,
@@ -2973,7 +3344,8 @@
     "image": "http://dummyimage.com/196x100.png/ff4444/ffffff",
     "price": 28.99,
     "description": "Clear feeder that attaches to windows for bird watching.",
-    "category": "Outdoor"
+    "category": "Outdoor",
+    "stock": 20
   },
   {
     "id": 373,
@@ -2981,7 +3353,8 @@
     "image": "http://dummyimage.com/213x100.png/cc0000/ffffff",
     "price": 15.99,
     "description": "Soft glow night light for children's rooms or bedside.",
-    "category": "Home"
+    "category": "Home",
+    "stock": 13
   },
   {
     "id": 374,
@@ -2989,7 +3362,8 @@
     "image": "http://dummyimage.com/152x100.png/5fa2dd/ffffff",
     "price": 3.99,
     "description": "Crunchy pretzels dipped in rich dark chocolate.",
-    "category": "Food - Snacks"
+    "category": "Food - Snacks",
+    "stock": 9
   },
   {
     "id": 375,
@@ -2997,7 +3371,8 @@
     "image": "http://dummyimage.com/245x100.png/5fa2dd/ffffff",
     "price": 4.99,
     "description": "Bell peppers stuffed with rice, beans, and spices, ready to bake.",
-    "category": "Food - Prepared Foods"
+    "category": "Food - Prepared Foods",
+    "stock": 19
   },
   {
     "id": 376,
@@ -3005,7 +3380,8 @@
     "image": "http://dummyimage.com/249x100.png/ff4444/ffffff",
     "price": 34.99,
     "description": "Blender designed for smoothies and shakes on the go.",
-    "category": "Kitchen"
+    "category": "Kitchen",
+    "stock": 14
   },
   {
     "id": 377,
@@ -3013,7 +3389,8 @@
     "image": "http://dummyimage.com/228x100.png/cc0000/ffffff",
     "price": 12.99,
     "description": "Natural air purifiers to absorb odors and moisture.",
-    "category": "Home"
+    "category": "Home",
+    "stock": 20
   },
   {
     "id": 378,
@@ -3021,7 +3398,8 @@
     "image": "http://dummyimage.com/126x100.png/5fa2dd/ffffff",
     "price": 69.99,
     "description": "Compact air purifier to improve indoor air quality.",
-    "category": "Health"
+    "category": "Health",
+    "stock": 4
   },
   {
     "id": 379,
@@ -3029,7 +3407,8 @@
     "image": "http://dummyimage.com/143x100.png/5fa2dd/ffffff",
     "price": 19.99,
     "description": "Set of five reusable fabric face masks.",
-    "category": "Health"
+    "category": "Health",
+    "stock": 25
   },
   {
     "id": 380,
@@ -3037,7 +3416,8 @@
     "image": "http://dummyimage.com/138x100.png/ff4444/ffffff",
     "price": 4.99,
     "description": "Fresh kale salad with a zesty lemon dressing, great as a side dish.",
-    "category": "Food - Salads"
+    "category": "Food - Salads",
+    "stock": 16
   },
   {
     "id": 381,
@@ -3045,7 +3425,8 @@
     "image": "http://dummyimage.com/210x100.png/cc0000/ffffff",
     "price": 2.79,
     "description": "Rich and creamy almond milk with a hint of chocolate.",
-    "category": "Food - Dairy Alternatives"
+    "category": "Food - Dairy Alternatives",
+    "stock": 10
   },
   {
     "id": 382,
@@ -3053,7 +3434,8 @@
     "image": "http://dummyimage.com/123x100.png/dddddd/000000",
     "price": 8.99,
     "description": "Creamy vegan mac and cheese made with cashew cheese.",
-    "category": "Food - Frozen"
+    "category": "Food - Frozen",
+    "stock": 14
   },
   {
     "id": 383,
@@ -3061,7 +3443,8 @@
     "image": "http://dummyimage.com/156x100.png/5fa2dd/ffffff",
     "price": 8.49,
     "description": "Fresh walnut halves for baking or snacking.",
-    "category": "Food - Nuts"
+    "category": "Food - Nuts",
+    "stock": 15
   },
   {
     "id": 384,
@@ -3069,7 +3452,8 @@
     "image": "http://dummyimage.com/222x100.png/ff4444/ffffff",
     "price": 3.49,
     "description": "Tangy whole grain mustard for sandwiches and dressings.",
-    "category": "Food - Condiments"
+    "category": "Food - Condiments",
+    "stock": 15
   },
   {
     "id": 385,
@@ -3077,7 +3461,8 @@
     "image": "http://dummyimage.com/126x100.png/cc0000/ffffff",
     "price": 3.29,
     "description": "A bright and zesty dressing perfect for salads and tacos.",
-    "category": "Food - Condiments"
+    "category": "Food - Condiments",
+    "stock": 8
   },
   {
     "id": 386,
@@ -3085,7 +3470,8 @@
     "image": "http://dummyimage.com/250x100.png/ff4444/ffffff",
     "price": 4.99,
     "description": "A soothing herbal tea made from ginger root.",
-    "category": "Food - Beverages"
+    "category": "Food - Beverages",
+    "stock": 17
   },
   {
     "id": 387,
@@ -3093,7 +3479,8 @@
     "image": "http://dummyimage.com/183x100.png/5fa2dd/ffffff",
     "price": 34.99,
     "description": "Rechargeable lantern with multiple brightness settings for outdoors.",
-    "category": "Outdoor"
+    "category": "Outdoor",
+    "stock": 6
   },
   {
     "id": 388,
@@ -3101,7 +3488,8 @@
     "image": "http://dummyimage.com/245x100.png/ff4444/ffffff",
     "price": 39.99,
     "description": "Continuous stream of fresh water for pets, promoting hydration.",
-    "category": "Pets"
+    "category": "Pets",
+    "stock": 1
   },
   {
     "id": 389,
@@ -3109,7 +3497,8 @@
     "image": "http://dummyimage.com/146x100.png/5fa2dd/ffffff",
     "price": 24.99,
     "description": "Organized tackle box for fishing gear.",
-    "category": "Outdoor"
+    "category": "Outdoor",
+    "stock": 23
   },
   {
     "id": 390,
@@ -3117,7 +3506,8 @@
     "image": "http://dummyimage.com/209x100.png/dddddd/000000",
     "price": 5.99,
     "description": "Bell peppers stuffed with rice and vegetables",
-    "category": "Food - Frozen Meals"
+    "category": "Food - Frozen Meals",
+    "stock": 14
   },
   {
     "id": 391,
@@ -3125,7 +3515,8 @@
     "image": "http://dummyimage.com/137x100.png/dddddd/000000",
     "price": 6.49,
     "description": "Nutty, crunchy pecans great for baking.",
-    "category": "Food - Snacks"
+    "category": "Food - Snacks",
+    "stock": 25
   },
   {
     "id": 392,
@@ -3133,7 +3524,8 @@
     "image": "http://dummyimage.com/146x100.png/dddddd/000000",
     "price": 34.99,
     "description": "Strategic board game for family game nights.",
-    "category": "Toys"
+    "category": "Toys",
+    "stock": 22
   },
   {
     "id": 393,
@@ -3141,7 +3533,8 @@
     "image": "http://dummyimage.com/228x100.png/dddddd/000000",
     "price": 5.49,
     "description": "Easy meal kit for creamy fettuccine Alfredo.",
-    "category": "Food - Prepared Meals"
+    "category": "Food - Prepared Meals",
+    "stock": 7
   },
   {
     "id": 394,
@@ -3149,7 +3542,8 @@
     "image": "http://dummyimage.com/150x100.png/ff4444/ffffff",
     "price": 3.99,
     "description": "Healthy, crunchy kale chips, a nutritious snack.",
-    "category": "Food - Snacks"
+    "category": "Food - Snacks",
+    "stock": 5
   },
   {
     "id": 395,
@@ -3157,7 +3551,8 @@
     "image": "http://dummyimage.com/113x100.png/5fa2dd/ffffff",
     "price": 5.99,
     "description": "Savory sausage links with a hint of maple flavor.",
-    "category": "Food - Meat"
+    "category": "Food - Meat",
+    "stock": 29
   },
   {
     "id": 396,
@@ -3165,7 +3560,8 @@
     "image": "http://dummyimage.com/239x100.png/ff4444/ffffff",
     "price": 2.29,
     "description": "Light and crispy rice cakes, a perfect low-calorie snack.",
-    "category": "Food - Snacks"
+    "category": "Food - Snacks",
+    "stock": 6
   },
   {
     "id": 397,
@@ -3173,7 +3569,8 @@
     "image": "http://dummyimage.com/131x100.png/5fa2dd/ffffff",
     "price": 29.99,
     "description": "Organizational cubes for easy packing and travel.",
-    "category": "Travel"
+    "category": "Travel",
+    "stock": 29
   },
   {
     "id": 398,
@@ -3181,7 +3578,8 @@
     "image": "http://dummyimage.com/242x100.png/dddddd/000000",
     "price": 4.99,
     "description": "A delicious creamy dip featuring spinach and artichokes, perfect for parties.",
-    "category": "Food - Snacks"
+    "category": "Food - Snacks",
+    "stock": 19
   },
   {
     "id": 399,
@@ -3189,7 +3587,8 @@
     "image": "http://dummyimage.com/208x100.png/cc0000/ffffff",
     "price": 39.99,
     "description": "High-density, non-slip yoga mat for stability and comfort.",
-    "category": "Fitness"
+    "category": "Fitness",
+    "stock": 11
   },
   {
     "id": 400,
@@ -3197,7 +3596,8 @@
     "image": "http://dummyimage.com/179x100.png/dddddd/000000",
     "price": 2.49,
     "description": "A spicy, flavorful cheese stick great for snacks or lunchboxes.",
-    "category": "Food - Snacks"
+    "category": "Food - Snacks",
+    "stock": 2
   },
   {
     "id": 401,
@@ -3205,7 +3605,8 @@
     "image": "http://dummyimage.com/227x100.png/cc0000/ffffff",
     "price": 2.99,
     "description": "Spreadable cream cheese blended with garlic and herbs.",
-    "category": "Food - Dairy"
+    "category": "Food - Dairy",
+    "stock": 9
   },
   {
     "id": 402,
@@ -3213,7 +3614,8 @@
     "image": "http://dummyimage.com/240x100.png/cc0000/ffffff",
     "price": 7.99,
     "description": "Hearty chili made with premium ground beef and kidney beans.",
-    "category": "Food - Canned Goods"
+    "category": "Food - Canned Goods",
+    "stock": 13
   },
   {
     "id": 403,
@@ -3221,7 +3623,8 @@
     "image": "http://dummyimage.com/132x100.png/ff4444/ffffff",
     "price": 4.79,
     "description": "A fresh, flavorful basil pesto for pasta and more",
-    "category": "Food - Sauces"
+    "category": "Food - Sauces",
+    "stock": 1
   },
   {
     "id": 404,
@@ -3229,7 +3632,8 @@
     "image": "http://dummyimage.com/105x100.png/dddddd/000000",
     "price": 129.99,
     "description": "Stylish black leather jacket featuring a zip-up front and multiple pockets.",
-    "category": "Clothing - Outerwear"
+    "category": "Clothing - Outerwear",
+    "stock": 8
   },
   {
     "id": 405,
@@ -3237,7 +3641,8 @@
     "image": "http://dummyimage.com/245x100.png/ff4444/ffffff",
     "price": 54.99,
     "description": "Practical cargo pants with lots of pockets for functionality.",
-    "category": "Clothing - Pants"
+    "category": "Clothing - Pants",
+    "stock": 26
   },
   {
     "id": 406,
@@ -3245,7 +3650,8 @@
     "image": "http://dummyimage.com/199x100.png/5fa2dd/ffffff",
     "price": 1.99,
     "description": "Corn on the cob seasoned with chili and lime for a spicy kick.",
-    "category": "Food - Vegetable"
+    "category": "Food - Vegetable",
+    "stock": 5
   },
   {
     "id": 407,
@@ -3253,7 +3659,8 @@
     "image": "http://dummyimage.com/182x100.png/5fa2dd/ffffff",
     "price": 19.99,
     "description": "Personalized calendar with your favorite photos.",
-    "category": "Books"
+    "category": "Books",
+    "stock": 13
   },
   {
     "id": 408,
@@ -3261,7 +3668,8 @@
     "image": "http://dummyimage.com/145x100.png/dddddd/000000",
     "price": 3.49,
     "description": "Refreshing green tea infused with peach, perfect for a hot day.",
-    "category": "Food - Beverages"
+    "category": "Food - Beverages",
+    "stock": 26
   },
   {
     "id": 409,
@@ -3269,7 +3677,8 @@
     "image": "http://dummyimage.com/106x100.png/5fa2dd/ffffff",
     "price": 59.99,
     "description": "Relax and soothe tired feet with this foot spa.",
-    "category": "Health"
+    "category": "Health",
+    "stock": 8
   },
   {
     "id": 410,
@@ -3277,7 +3686,8 @@
     "image": "http://dummyimage.com/248x100.png/5fa2dd/ffffff",
     "price": 10.99,
     "description": "Juicy pork tenderloin, great for roasting.",
-    "category": "Food - Meat"
+    "category": "Food - Meat",
+    "stock": 3
   },
   {
     "id": 411,
@@ -3285,7 +3695,8 @@
     "image": "http://dummyimage.com/247x100.png/dddddd/000000",
     "price": 24.99,
     "description": "Classic wooden building blocks for toddlers.",
-    "category": "Toys"
+    "category": "Toys",
+    "stock": 22
   },
   {
     "id": 412,
@@ -3293,7 +3704,8 @@
     "image": "http://dummyimage.com/170x100.png/dddddd/000000",
     "price": 49.99,
     "description": "Foldable reclining camping chair with cup holder.",
-    "category": "Outdoor"
+    "category": "Outdoor",
+    "stock": 29
   },
   {
     "id": 413,
@@ -3301,7 +3713,8 @@
     "image": "http://dummyimage.com/129x100.png/cc0000/ffffff",
     "price": 5.99,
     "description": "Tender beef chunks for slow-cooked stews.",
-    "category": "Food - Meat"
+    "category": "Food - Meat",
+    "stock": 20
   },
   {
     "id": 414,
@@ -3309,7 +3722,8 @@
     "image": "http://dummyimage.com/143x100.png/5fa2dd/ffffff",
     "price": 4.59,
     "description": "A delightful mix of nuts, fruit, and chocolate.",
-    "category": "Food - Snacks"
+    "category": "Food - Snacks",
+    "stock": 17
   },
   {
     "id": 415,
@@ -3317,7 +3731,8 @@
     "image": "http://dummyimage.com/139x100.png/dddddd/000000",
     "price": 3.49,
     "description": "Crispy apple chips drizzled with caramel for a sweet treat.",
-    "category": "Food - Snacks"
+    "category": "Food - Snacks",
+    "stock": 27
   },
   {
     "id": 416,
@@ -3325,7 +3740,8 @@
     "image": "http://dummyimage.com/234x100.png/cc0000/ffffff",
     "price": 19.99,
     "description": "A cozy cable knit beanie to keep your head warm in winter.",
-    "category": "Clothing - Accessories"
+    "category": "Clothing - Accessories",
+    "stock": 13
   },
   {
     "id": 417,
@@ -3333,7 +3749,8 @@
     "image": "http://dummyimage.com/106x100.png/dddddd/000000",
     "price": 12.99,
     "description": "Stainless steel measuring spoons set for cooking.",
-    "category": "Kitchen"
+    "category": "Kitchen",
+    "stock": 15
   },
   {
     "id": 418,
@@ -3341,7 +3758,8 @@
     "image": "http://dummyimage.com/124x100.png/5fa2dd/ffffff",
     "price": 4.09,
     "description": "Tangy dressing perfect for salads and marinades, with sesame and ginger flavors.",
-    "category": "Food - Condiments"
+    "category": "Food - Condiments",
+    "stock": 11
   },
   {
     "id": 419,
@@ -3349,7 +3767,8 @@
     "image": "http://dummyimage.com/115x100.png/ff4444/ffffff",
     "price": 3.99,
     "description": "Easy-to-make pancake mix with chocolate chips included.",
-    "category": "Food - Bakery"
+    "category": "Food - Bakery",
+    "stock": 15
   },
   {
     "id": 420,
@@ -3357,7 +3776,8 @@
     "image": "http://dummyimage.com/182x100.png/5fa2dd/ffffff",
     "price": 6.99,
     "description": "Flavorful chicken sausage, low in fat and fully cooked.",
-    "category": "Food - Meat"
+    "category": "Food - Meat",
+    "stock": 30
   },
   {
     "id": 421,
@@ -3365,7 +3785,8 @@
     "image": "http://dummyimage.com/224x100.png/cc0000/ffffff",
     "price": 3.99,
     "description": "Fresh sliced bell peppers for salads or stir-fries.",
-    "category": "Food - Fresh Produce"
+    "category": "Food - Fresh Produce",
+    "stock": 8
   },
   {
     "id": 422,
@@ -3373,7 +3794,8 @@
     "image": "http://dummyimage.com/168x100.png/dddddd/000000",
     "price": 79.99,
     "description": "Personal massager for muscle recovery.",
-    "category": "Health"
+    "category": "Health",
+    "stock": 3
   },
   {
     "id": 423,
@@ -3381,7 +3803,8 @@
     "image": "http://dummyimage.com/189x100.png/5fa2dd/ffffff",
     "price": 29.99,
     "description": "Personalized wooden puzzles for children that encourage learning.",
-    "category": "Toys"
+    "category": "Toys",
+    "stock": 28
   },
   {
     "id": 424,
@@ -3389,7 +3812,8 @@
     "image": "http://dummyimage.com/143x100.png/5fa2dd/ffffff",
     "price": 15.99,
     "description": "Adjustable dog collar with personalized tags.",
-    "category": "Pets"
+    "category": "Pets",
+    "stock": 15
   },
   {
     "id": 425,
@@ -3397,7 +3821,8 @@
     "image": "http://dummyimage.com/156x100.png/5fa2dd/ffffff",
     "price": 3.99,
     "description": "Tangy vinaigrette with orange and ginger flavors.",
-    "category": "Food - Condiments"
+    "category": "Food - Condiments",
+    "stock": 9
   },
   {
     "id": 426,
@@ -3405,7 +3830,8 @@
     "image": "http://dummyimage.com/156x100.png/5fa2dd/ffffff",
     "price": 5.49,
     "description": "Crispy baked falafel balls, perfect for salads",
-    "category": "Food - Vegetarian"
+    "category": "Food - Vegetarian",
+    "stock": 8
   },
   {
     "id": 427,
@@ -3413,7 +3839,8 @@
     "image": "http://dummyimage.com/142x100.png/ff4444/ffffff",
     "price": 69.99,
     "description": "Extra layer of comfort for your mattress.",
-    "category": "Home"
+    "category": "Home",
+    "stock": 3
   },
   {
     "id": 428,
@@ -3421,7 +3848,8 @@
     "image": "http://dummyimage.com/245x100.png/5fa2dd/ffffff",
     "price": 39.99,
     "description": "Complete set for garden care with a handy carrying bag.",
-    "category": "Garden"
+    "category": "Garden",
+    "stock": 10
   },
   {
     "id": 429,
@@ -3429,7 +3857,8 @@
     "image": "http://dummyimage.com/102x100.png/ff4444/ffffff",
     "price": 19.99,
     "description": "Heavy-duty chain lock for securing bicycles.",
-    "category": "Outdoor"
+    "category": "Outdoor",
+    "stock": 27
   },
   {
     "id": 430,
@@ -3437,7 +3866,8 @@
     "image": "http://dummyimage.com/209x100.png/5fa2dd/ffffff",
     "price": 12.99,
     "description": "Foam yoga block for enhancing poses and stability.",
-    "category": "Fitness"
+    "category": "Fitness",
+    "stock": 12
   },
   {
     "id": 431,
@@ -3445,7 +3875,8 @@
     "image": "http://dummyimage.com/215x100.png/ff4444/ffffff",
     "price": 79.99,
     "description": "Homemade ice cream maker for delicious desserts.",
-    "category": "Kitchen"
+    "category": "Kitchen",
+    "stock": 12
   },
   {
     "id": 432,
@@ -3453,7 +3884,8 @@
     "image": "http://dummyimage.com/209x100.png/5fa2dd/ffffff",
     "price": 1.79,
     "description": "Canned beans cooked in a savory chili sauce",
-    "category": "Food - Canned Goods"
+    "category": "Food - Canned Goods",
+    "stock": 25
   },
   {
     "id": 433,
@@ -3461,7 +3893,8 @@
     "image": "http://dummyimage.com/101x100.png/ff4444/ffffff",
     "price": 39.99,
     "description": "Adjustable stand for portable speakers and devices.",
-    "category": "Audio"
+    "category": "Audio",
+    "stock": 1
   },
   {
     "id": 434,
@@ -3469,7 +3902,8 @@
     "image": "http://dummyimage.com/212x100.png/5fa2dd/ffffff",
     "price": 4.99,
     "description": "A zero-calorie coconut oil spray for cooking and baking.",
-    "category": "Food - Cooking Oils"
+    "category": "Food - Cooking Oils",
+    "stock": 6
   },
   {
     "id": 435,
@@ -3477,7 +3911,8 @@
     "image": "http://dummyimage.com/132x100.png/ff4444/ffffff",
     "price": 4.19,
     "description": "Healthy pasta alternative made from chickpeas",
-    "category": "Food - Pasta"
+    "category": "Food - Pasta",
+    "stock": 9
   },
   {
     "id": 436,
@@ -3485,7 +3920,8 @@
     "image": "http://dummyimage.com/160x100.png/5fa2dd/ffffff",
     "price": 3.99,
     "description": "A crunchy collection of flavored kettle chips in a convenient pack.",
-    "category": "Food - Snacks"
+    "category": "Food - Snacks",
+    "stock": 15
   },
   {
     "id": 437,
@@ -3493,7 +3929,8 @@
     "image": "http://dummyimage.com/222x100.png/dddddd/000000",
     "price": 69.99,
     "description": "A classic denim jacket that never goes out of style.",
-    "category": "Clothing - Outerwear"
+    "category": "Clothing - Outerwear",
+    "stock": 16
   },
   {
     "id": 438,
@@ -3501,7 +3938,8 @@
     "image": "http://dummyimage.com/226x100.png/ff4444/ffffff",
     "price": 8.49,
     "description": "A convenient meal kit for making a delicious beef taco skillet at home.",
-    "category": "Food - Meal Kits"
+    "category": "Food - Meal Kits",
+    "stock": 9
   },
   {
     "id": 439,
@@ -3509,7 +3947,8 @@
     "image": "http://dummyimage.com/185x100.png/dddddd/000000",
     "price": 5.29,
     "description": "A warming blend of ginger and turmeric for lattes.",
-    "category": "Food - Beverages"
+    "category": "Food - Beverages",
+    "stock": 27
   },
   {
     "id": 440,
@@ -3517,7 +3956,8 @@
     "image": "http://dummyimage.com/215x100.png/5fa2dd/ffffff",
     "price": 10.99,
     "description": "Silicone tray for making ice cubes with a lid to prevent spills.",
-    "category": "Kitchen"
+    "category": "Kitchen",
+    "stock": 20
   },
   {
     "id": 441,
@@ -3525,7 +3965,8 @@
     "image": "http://dummyimage.com/102x100.png/5fa2dd/ffffff",
     "price": 49.99,
     "description": "Planters with a self-watering feature for easy care.",
-    "category": "Garden"
+    "category": "Garden",
+    "stock": 3
   },
   {
     "id": 442,
@@ -3533,7 +3974,8 @@
     "image": "http://dummyimage.com/136x100.png/dddddd/000000",
     "price": 59.99,
     "description": "Make delicious ice cream at home with this user-friendly machine.",
-    "category": "Kitchen"
+    "category": "Kitchen",
+    "stock": 30
   },
   {
     "id": 443,
@@ -3541,7 +3983,8 @@
     "image": "http://dummyimage.com/225x100.png/5fa2dd/ffffff",
     "price": 39.99,
     "description": "Adjustable stand for portable speakers and devices.",
-    "category": "Audio"
+    "category": "Audio",
+    "stock": 27
   },
   {
     "id": 444,
@@ -3549,7 +3992,8 @@
     "image": "http://dummyimage.com/238x100.png/dddddd/000000",
     "price": 24.99,
     "description": "Convenient magnetic jars for easy spice storage.",
-    "category": "Kitchen"
+    "category": "Kitchen",
+    "stock": 20
   },
   {
     "id": 445,
@@ -3557,7 +4001,8 @@
     "image": "http://dummyimage.com/180x100.png/5fa2dd/ffffff",
     "price": 34.99,
     "description": "Elegant glass decanter for aerating wine.",
-    "category": "Home"
+    "category": "Home",
+    "stock": 17
   },
   {
     "id": 446,
@@ -3565,7 +4010,8 @@
     "image": "http://dummyimage.com/188x100.png/cc0000/ffffff",
     "price": 89.99,
     "description": "Complete set for grilling and tailgating fun.",
-    "category": "Outdoor"
+    "category": "Outdoor",
+    "stock": 8
   },
   {
     "id": 447,
@@ -3573,7 +4019,8 @@
     "image": "http://dummyimage.com/209x100.png/ff4444/ffffff",
     "price": 3.49,
     "description": "Oats and honey bars with a chewy texture and nutty flavor.",
-    "category": "Food - Snacks"
+    "category": "Food - Snacks",
+    "stock": 10
   },
   {
     "id": 448,
@@ -3581,7 +4028,8 @@
     "image": "http://dummyimage.com/183x100.png/dddddd/000000",
     "price": 6.49,
     "description": "Frozen sausage patties made with herbs and spices, perfect for breakfast sandwiches.",
-    "category": "Food - Meats"
+    "category": "Food - Meats",
+    "stock": 14
   },
   {
     "id": 449,
@@ -3589,7 +4037,8 @@
     "image": "http://dummyimage.com/175x100.png/dddddd/000000",
     "price": 24.99,
     "description": "Absorbent training pads for puppies and kittens.",
-    "category": "Pets"
+    "category": "Pets",
+    "stock": 5
   },
   {
     "id": 450,
@@ -3597,7 +4046,8 @@
     "image": "http://dummyimage.com/209x100.png/dddddd/000000",
     "price": 69.99,
     "description": "Extra layer of comfort for your mattress.",
-    "category": "Home"
+    "category": "Home",
+    "stock": 3
   },
   {
     "id": 451,
@@ -3605,7 +4055,8 @@
     "image": "http://dummyimage.com/120x100.png/dddddd/000000",
     "price": 39.99,
     "description": "Made from biodegradable materials for eco-conscious yogis.",
-    "category": "Fitness"
+    "category": "Fitness",
+    "stock": 24
   },
   {
     "id": 452,
@@ -3613,7 +4064,8 @@
     "image": "http://dummyimage.com/163x100.png/5fa2dd/ffffff",
     "price": 39.99,
     "description": "Functional leggings designed for maximum comfort during workouts.",
-    "category": "Clothing - Activewear"
+    "category": "Clothing - Activewear",
+    "stock": 14
   },
   {
     "id": 453,
@@ -3621,7 +4073,8 @@
     "image": "http://dummyimage.com/129x100.png/cc0000/ffffff",
     "price": 49.99,
     "description": "Classic V-neck sweater crafted from soft wool for warmth and style.",
-    "category": "Clothing - Tops"
+    "category": "Clothing - Tops",
+    "stock": 5
   },
   {
     "id": 454,
@@ -3629,7 +4082,8 @@
     "image": "http://dummyimage.com/226x100.png/dddddd/000000",
     "price": 89.99,
     "description": "Comfortable headset with surround sound for immersive gaming.",
-    "category": "Gaming"
+    "category": "Gaming",
+    "stock": 6
   },
   {
     "id": 455,
@@ -3637,7 +4091,8 @@
     "image": "http://dummyimage.com/214x100.png/5fa2dd/ffffff",
     "price": 3.99,
     "description": "Delicious turkey bacon, a healthier alternative.",
-    "category": "Food - Meat"
+    "category": "Food - Meat",
+    "stock": 2
   },
   {
     "id": 456,
@@ -3645,7 +4100,8 @@
     "image": "http://dummyimage.com/241x100.png/ff4444/ffffff",
     "price": 4.29,
     "description": "Creamy peanut butter with no added sugar or oils.",
-    "category": "Food - Spreads"
+    "category": "Food - Spreads",
+    "stock": 16
   },
   {
     "id": 457,
@@ -3653,7 +4109,8 @@
     "image": "http://dummyimage.com/127x100.png/cc0000/ffffff",
     "price": 9.99,
     "description": "Tender chicken cooked in a rich coconut curry sauce, ready to heat and serve.",
-    "category": "Food - Frozen Foods"
+    "category": "Food - Frozen Foods",
+    "stock": 22
   },
   {
     "id": 458,
@@ -3661,7 +4118,8 @@
     "image": "http://dummyimage.com/143x100.png/dddddd/000000",
     "price": 14.99,
     "description": "Track your meals and nutrition with this handy food journal.",
-    "category": "Health"
+    "category": "Health",
+    "stock": 26
   },
   {
     "id": 459,
@@ -3669,7 +4127,8 @@
     "image": "http://dummyimage.com/100x100.png/cc0000/ffffff",
     "price": 29.99,
     "description": "Sand-resistant and compact for outdoor and beach use.",
-    "category": "Outdoor"
+    "category": "Outdoor",
+    "stock": 19
   },
   {
     "id": 460,
@@ -3677,7 +4136,8 @@
     "image": "http://dummyimage.com/160x100.png/dddddd/000000",
     "price": 59.99,
     "description": "Electric food steamer for healthy cooking.",
-    "category": "Kitchen"
+    "category": "Kitchen",
+    "stock": 25
   },
   {
     "id": 461,
@@ -3685,7 +4145,8 @@
     "image": "http://dummyimage.com/158x100.png/cc0000/ffffff",
     "price": 39.99,
     "description": "UV sanitizer that kills germs on your smartphone.",
-    "category": "Health"
+    "category": "Health",
+    "stock": 3
   },
   {
     "id": 462,
@@ -3693,7 +4154,8 @@
     "image": "http://dummyimage.com/118x100.png/ff4444/ffffff",
     "price": 2.99,
     "description": "Crispy roasted chickpeas seasoned to perfection",
-    "category": "Food - Snacks"
+    "category": "Food - Snacks",
+    "stock": 17
   },
   {
     "id": 463,
@@ -3701,7 +4163,8 @@
     "image": "http://dummyimage.com/216x100.png/cc0000/ffffff",
     "price": 34.99,
     "description": "String lights for decorating holiday trees.",
-    "category": "Home"
+    "category": "Home",
+    "stock": 15
   },
   {
     "id": 464,
@@ -3709,7 +4172,8 @@
     "image": "http://dummyimage.com/122x100.png/dddddd/000000",
     "price": 2.59,
     "description": "A delicious sauce perfect for stir-frying or glazing meats.",
-    "category": "Food - Sauces"
+    "category": "Food - Sauces",
+    "stock": 23
   },
   {
     "id": 465,
@@ -3717,7 +4181,8 @@
     "image": "http://dummyimage.com/132x100.png/ff4444/ffffff",
     "price": 14.99,
     "description": "Intricate designs for adults to relax and unwind.",
-    "category": "Books"
+    "category": "Books",
+    "stock": 30
   },
   {
     "id": 466,
@@ -3725,7 +4190,8 @@
     "image": "http://dummyimage.com/147x100.png/ff4444/ffffff",
     "price": 4.99,
     "description": "Creamy ice cream with a warm cinnamon flavor, perfect for dessert.",
-    "category": "Food - Frozen Desserts"
+    "category": "Food - Frozen Desserts",
+    "stock": 27
   },
   {
     "id": 467,
@@ -3733,7 +4199,8 @@
     "image": "http://dummyimage.com/164x100.png/5fa2dd/ffffff",
     "price": 39.99,
     "description": "Set of ceramic knives for precision slicing.",
-    "category": "Kitchen"
+    "category": "Kitchen",
+    "stock": 2
   },
   {
     "id": 468,
@@ -3741,7 +4208,8 @@
     "image": "http://dummyimage.com/249x100.png/5fa2dd/ffffff",
     "price": 3.49,
     "description": "Fresh mango salsa with a hint of lime for a zesty topping.",
-    "category": "Food - Condiments"
+    "category": "Food - Condiments",
+    "stock": 25
   },
   {
     "id": 469,
@@ -3749,7 +4217,8 @@
     "image": "http://dummyimage.com/122x100.png/5fa2dd/ffffff",
     "price": 9.99,
     "description": "Freshly roasted coffee beans with rich flavor.",
-    "category": "Food - Beverages"
+    "category": "Food - Beverages",
+    "stock": 16
   },
   {
     "id": 470,
@@ -3757,7 +4226,8 @@
     "image": "http://dummyimage.com/132x100.png/5fa2dd/ffffff",
     "price": 69.99,
     "description": "Easy setup tent perfect for camping and outdoor festivals.",
-    "category": "Outdoor"
+    "category": "Outdoor",
+    "stock": 11
   },
   {
     "id": 471,
@@ -3765,7 +4235,8 @@
     "image": "http://dummyimage.com/134x100.png/ff4444/ffffff",
     "price": 12.99,
     "description": "Natural air purifiers to absorb odors and moisture.",
-    "category": "Home"
+    "category": "Home",
+    "stock": 19
   },
   {
     "id": 472,
@@ -3773,7 +4244,8 @@
     "image": "http://dummyimage.com/234x100.png/dddddd/000000",
     "price": 39.99,
     "description": "Rotating spice rack with 20 spice jars.",
-    "category": "Kitchen"
+    "category": "Kitchen",
+    "stock": 20
   },
   {
     "id": 473,
@@ -3781,7 +4253,8 @@
     "image": "http://dummyimage.com/227x100.png/cc0000/ffffff",
     "price": 109.99,
     "description": "3-inch memory foam mattress topper for added comfort.",
-    "category": "Home"
+    "category": "Home",
+    "stock": 30
   },
   {
     "id": 474,
@@ -3789,7 +4262,8 @@
     "image": "http://dummyimage.com/104x100.png/dddddd/000000",
     "price": 3.49,
     "description": "Rich and creamy Caesar dressing for salads and wraps.",
-    "category": "Food - Condiments"
+    "category": "Food - Condiments",
+    "stock": 4
   },
   {
     "id": 475,
@@ -3797,7 +4271,8 @@
     "image": "http://dummyimage.com/230x100.png/cc0000/ffffff",
     "price": 5.49,
     "description": "A variety pack of classic, roasted red pepper, and garlic hummus.",
-    "category": "Food - Snacks"
+    "category": "Food - Snacks",
+    "stock": 8
   },
   {
     "id": 476,
@@ -3805,7 +4280,8 @@
     "image": "http://dummyimage.com/173x100.png/cc0000/ffffff",
     "price": 3.99,
     "description": "Sweet and nutty filling for delicious homemade pecan pie.",
-    "category": "Food - Baking Goods"
+    "category": "Food - Baking Goods",
+    "stock": 10
   },
   {
     "id": 477,
@@ -3813,7 +4289,8 @@
     "image": "http://dummyimage.com/207x100.png/5fa2dd/ffffff",
     "price": 12.99,
     "description": "Protective case for wireless earbuds.",
-    "category": "Accessories"
+    "category": "Accessories",
+    "stock": 7
   },
   {
     "id": 478,
@@ -3821,7 +4298,8 @@
     "image": "http://dummyimage.com/112x100.png/ff4444/ffffff",
     "price": 2.49,
     "description": "Quick-cooking couscous flavored with herbs and spices.",
-    "category": "Food - Grains"
+    "category": "Food - Grains",
+    "stock": 13
   },
   {
     "id": 479,
@@ -3829,7 +4307,8 @@
     "image": "http://dummyimage.com/238x100.png/5fa2dd/ffffff",
     "price": 15.99,
     "description": "Silicone oven mitts for safe handling of hot cookware.",
-    "category": "Kitchen"
+    "category": "Kitchen",
+    "stock": 12
   },
   {
     "id": 480,
@@ -3837,7 +4316,8 @@
     "image": "http://dummyimage.com/103x100.png/dddddd/000000",
     "price": 2.49,
     "description": "Seasoning mix for making crispy and flavorful potato wedges.",
-    "category": "Food - Condiments"
+    "category": "Food - Condiments",
+    "stock": 4
   },
   {
     "id": 481,
@@ -3845,7 +4325,8 @@
     "image": "http://dummyimage.com/117x100.png/dddddd/000000",
     "price": 5.49,
     "description": "Tangy goat cheese infused with herbs, perfect for snacking.",
-    "category": "Food - Cheese"
+    "category": "Food - Cheese",
+    "stock": 19
   },
   {
     "id": 482,
@@ -3853,7 +4334,8 @@
     "image": "http://dummyimage.com/106x100.png/dddddd/000000",
     "price": 39.99,
     "description": "Insulated pitcher to keep beverages cold or hot.",
-    "category": "Kitchen"
+    "category": "Kitchen",
+    "stock": 14
   },
   {
     "id": 483,
@@ -3861,7 +4343,8 @@
     "image": "http://dummyimage.com/108x100.png/cc0000/ffffff",
     "price": 34.99,
     "description": "Spacious duffle bag for weekend getaways.",
-    "category": "Travel"
+    "category": "Travel",
+    "stock": 19
   },
   {
     "id": 484,
@@ -3869,7 +4352,8 @@
     "image": "http://dummyimage.com/221x100.png/cc0000/ffffff",
     "price": 129.99,
     "description": "Educational tablet designed for preschool-age children.",
-    "category": "Electronics"
+    "category": "Electronics",
+    "stock": 25
   },
   {
     "id": 485,
@@ -3877,7 +4361,8 @@
     "image": "http://dummyimage.com/135x100.png/cc0000/ffffff",
     "price": 14.99,
     "description": "Effective brush for removing loose hair from pets.",
-    "category": "Pets"
+    "category": "Pets",
+    "stock": 29
   },
   {
     "id": 486,
@@ -3885,7 +4370,8 @@
     "image": "http://dummyimage.com/241x100.png/ff4444/ffffff",
     "price": 34.99,
     "description": "All-in-one art set for kids to unleash creativity.",
-    "category": "Toys"
+    "category": "Toys",
+    "stock": 11
   },
   {
     "id": 487,
@@ -3893,7 +4379,8 @@
     "image": "http://dummyimage.com/196x100.png/5fa2dd/ffffff",
     "price": 29.99,
     "description": "Lightweight and durable hammock for relaxing in nature.",
-    "category": "Outdoor"
+    "category": "Outdoor",
+    "stock": 9
   },
   {
     "id": 488,
@@ -3901,7 +4388,8 @@
     "image": "http://dummyimage.com/160x100.png/5fa2dd/ffffff",
     "price": 49.99,
     "description": "Stylish faux leather leggings for a trendy outfit.",
-    "category": "Clothing - Pants"
+    "category": "Clothing - Pants",
+    "stock": 13
   },
   {
     "id": 489,
@@ -3909,7 +4397,8 @@
     "image": "http://dummyimage.com/221x100.png/ff4444/ffffff",
     "price": 99.99,
     "description": "Stylish and spacious case for makeup and beauty products.",
-    "category": "Beauty"
+    "category": "Beauty",
+    "stock": 3
   },
   {
     "id": 490,
@@ -3917,7 +4406,8 @@
     "image": "http://dummyimage.com/204x100.png/5fa2dd/ffffff",
     "price": 1.99,
     "description": "Pitted black olives, perfect for salads and pizzas.",
-    "category": "Food - Condiments"
+    "category": "Food - Condiments",
+    "stock": 21
   },
   {
     "id": 491,
@@ -3925,7 +4415,8 @@
     "image": "http://dummyimage.com/236x100.png/ff4444/ffffff",
     "price": 18.99,
     "description": "Safety vest for pets during nighttime walks.",
-    "category": "Pets"
+    "category": "Pets",
+    "stock": 13
   },
   {
     "id": 492,
@@ -3933,7 +4424,8 @@
     "image": "http://dummyimage.com/229x100.png/dddddd/000000",
     "price": 3.99,
     "description": "Dried tomatoes packed with deep flavor for salads and pasta.",
-    "category": "Food - Vegetables"
+    "category": "Food - Vegetables",
+    "stock": 14
   },
   {
     "id": 493,
@@ -3941,7 +4433,8 @@
     "image": "http://dummyimage.com/116x100.png/5fa2dd/ffffff",
     "price": 24.99,
     "description": "Absorbent training pads for puppies and kittens.",
-    "category": "Pets"
+    "category": "Pets",
+    "stock": 6
   },
   {
     "id": 494,
@@ -3949,7 +4442,8 @@
     "image": "http://dummyimage.com/201x100.png/5fa2dd/ffffff",
     "price": 49.99,
     "description": "Soft and plush robe for comfort after the shower.",
-    "category": "Clothing"
+    "category": "Clothing",
+    "stock": 21
   },
   {
     "id": 495,
@@ -3957,7 +4451,8 @@
     "image": "http://dummyimage.com/239x100.png/dddddd/000000",
     "price": 2.29,
     "description": "A seasoning blend of garlic and herbs to enhance any dish.",
-    "category": "Food - Spices"
+    "category": "Food - Spices",
+    "stock": 18
   },
   {
     "id": 496,
@@ -3965,7 +4460,8 @@
     "image": "http://dummyimage.com/186x100.png/5fa2dd/ffffff",
     "price": 3.99,
     "description": "Crispy cheese snacks that melt in your mouth.",
-    "category": "Food - Snacks"
+    "category": "Food - Snacks",
+    "stock": 29
   },
   {
     "id": 497,
@@ -3973,7 +4469,8 @@
     "image": "http://dummyimage.com/148x100.png/cc0000/ffffff",
     "price": 4.99,
     "description": "Crunchy granola full of peanut butter flavor and oats.",
-    "category": "Food - Breakfast"
+    "category": "Food - Breakfast",
+    "stock": 2
   },
   {
     "id": 498,
@@ -3981,7 +4478,8 @@
     "image": "http://dummyimage.com/218x100.png/ff4444/ffffff",
     "price": 39.99,
     "description": "Eco-friendly power bank that charges via sunlight.",
-    "category": "Electronics"
+    "category": "Electronics",
+    "stock": 16
   },
   {
     "id": 499,
@@ -3989,7 +4487,8 @@
     "image": "http://dummyimage.com/235x100.png/5fa2dd/ffffff",
     "price": 1.89,
     "description": "Frozen green peas, a great addition to meals.",
-    "category": "Food - Frozen Foods"
+    "category": "Food - Frozen Foods",
+    "stock": 23
   },
   {
     "id": 500,
@@ -3997,6 +4496,7 @@
     "image": "http://dummyimage.com/118x100.png/dddddd/000000",
     "price": 99.99,
     "description": "Compact wireless printer for home use.",
-    "category": "Office"
+    "category": "Office",
+    "stock": 2
   }
 ]
