@@ -1,20 +1,19 @@
 import React, { useState } from "react";
 
 function Contact() {
-  const [nombre, setNombre] = useState("");
-  const [email, setEmail] = useState("");
+  const [valores, setValores] = useState({
+    nombre: "",
+    email: "",
+    telefono: "",
+  });
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    console.log("enviado", { nombre, email });
+    console.log("enviado", valores);
   };
 
-  const handleNombre = (e) => {
-    setNombre(e.target.value);
-  };
-
-  const handleEmail = (e) => {
-    setEmail(e.target.value);
+  const handleValores = (e) => {
+    setValores({ ...valores, [e.target.name]: e.target.value });
   };
 
   return (
@@ -24,14 +23,23 @@ function Contact() {
         <input
           type="text"
           placeholder="ingresa tu nombre"
-          value={nombre}
-          onChange={handleNombre}
+          value={valores.nombre}
+          onChange={handleValores}
+          name="nombre"
         />
         <input
           type="email"
           placeholder="ingresa tu email"
-          value={email}
-          onChange={handleEmail}
+          value={valores.email}
+          onChange={handleValores}
+          name="email"
+        />
+        <input
+          type="phone"
+          placeholder="ingresa tu telefono"
+          value={valores.telefono}
+          onChange={handleValores}
+          name="telefono"
         />
         <button type="submit">Enviar</button>
       </form>
