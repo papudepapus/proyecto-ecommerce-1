@@ -14,11 +14,6 @@ function Navbar() {
           </Link>
         </li>
         <li>
-          <Link to="/nosotros" className="menu-link">
-            Nosotros
-          </Link>
-        </li>
-        <li>
           <Link to="/productos" className="menu-link">
             Productos
           </Link>
@@ -36,6 +31,16 @@ function Navbar() {
         <li>
           <Link to="/productos/Clothing" className="menu-link">
             Ropa
+          </Link>
+        </li>
+        <li>
+          <Link to="/nosotros" className="menu-link">
+            Nosotros
+          </Link>
+        </li>
+        <li>
+          <Link to="/contact" className="menu-link">
+            Contact
           </Link>
         </li>
       </ul>

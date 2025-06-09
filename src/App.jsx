@@ -4,6 +4,7 @@ import ItemListContainer from "./components/ItemListContainer";
 import Navbar from "./components/Navbar";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Nosotros from "./components/Nosotros";
+import Contact from "./components/Contact";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
           <Route path="/productos" element={<ItemListContainer />} />
           <Route path="/productos/:category" element={<ItemListContainer />} />
           <Route path="/nosotros" element={<Nosotros />} />
+          <Route path="/contact" element={<Contact />} />
         </Routes>
       </BrowserRouter>
     </>
