@@ -1,45 +1,31 @@
-import React, { useState } from "react";
+import React from "react";
+import { useForm } from "react-hook-form";
 
 function Contact() {
-  const [valores, setValores] = useState({
-    nombre: "",
-    email: "",
-    telefono: "",
-  });
+  const { register, handleSubmit } = useForm();
 
-  const handleSubmit = (e) => {
-    e.preventDefault();
-    console.log("enviado", valores);
-  };
-
-  const handleValores = (e) => {
-    setValores({ ...valores, [e.target.name]: e.target.value });
+  const enviar = (data) => {
+    console.log(data);
   };
 
   return (
-    <div className="container">
+    <div className="container-contact">
       <h1 className="main-title">Contacto</h1>
-      <form onSubmit={handleSubmit}>
+      <form onSubmit={handleSubmit(enviar)}>
         <input
           type="text"
           placeholder="ingresa tu nombre"
-          value={valores.nombre}
-          onChange={handleValores}
-          name="nombre"
+          {...register("nombre")}
         />
         <input
           type="email"
           placeholder="ingresa tu email"
-          value={valores.email}
-          onChange={handleValores}
-          name="email"
+          {...register("email")}
         />
         <input
           type="phone"
           placeholder="ingresa tu telefono"
-          value={valores.telefono}
-          onChange={handleValores}
-          name="telefono"
+          {...register("phone")}
         />
         <button type="submit">Enviar</button>
       </form>
