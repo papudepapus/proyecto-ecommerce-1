@@ -5,33 +5,13 @@ import Navbar from "./components/Navbar";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Nosotros from "./components/Nosotros";
 import Contact from "./components/Contact";
-import { useState } from "react";
-import { CartContext } from "./context/CartContext";
+import { CartProvider } from "./context/CartContext";
+import Carrito from "./components/Carrito";
 
 function App() {
-  const [carrito, setCarrito] = useState([]);
-
-  const AgregarAlCarrito = (item, cantidad) => {
-    const itemAgregado = { ...item, cantidad };
-
-    const nuevoCarrito = [...carrito];
-
-    const estaEnElCarrito = nuevoCarrito.find(
-      (producto) => producto.id === itemAgregado.id
-    );
-
-    if (estaEnElCarrito) {
-      estaEnElCarrito.cantidad += cantidad;
-      setCarrito(nuevoCarrito);
-    } else {
-      nuevoCarrito.push(itemAgregado);
-      setCarrito(nuevoCarrito);
-    }
-  };
-
   return (
     <>
-      <CartContext.Provider value={{ carrito, AgregarAlCarrito }}>
+      <CartProvider>
         <BrowserRouter>
           <Navbar />
 
@@ -45,9 +25,10 @@ function App() {
             />
             <Route path="/nosotros" element={<Nosotros />} />
             <Route path="/contact" element={<Contact />} />
+            <Route path="/carrito" element={<Carrito />} />
           </Routes>
         </BrowserRouter>
-      </CartContext.Provider>
+      </CartProvider>
     </>
   );
 }
