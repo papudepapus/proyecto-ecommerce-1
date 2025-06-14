@@ -303,8 +303,8 @@ form button:hover {
 .prod-button-vaciar-carrito {
   display: block;
   margin: 1.5rem auto;
-  padding: 0.75rem 1.5rem;
-  background-color: #007bff; /* azul, en sintonía con la navbar */
+  padding: 10px;
+  background-color: #0056b3;
   color: #fff;
   font-size: 1rem;
   border: none;
@@ -313,7 +313,7 @@ form button:hover {
 }
 
 .prod-button-vaciar-carrito:hover {
-  background-color: #0056b3;
+  background-color: #004494;
 }
 
 /* Mensaje cuando el carrito está vacío */
