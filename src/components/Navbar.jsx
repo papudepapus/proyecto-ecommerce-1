@@ -16,7 +16,7 @@ function Navbar() {
         </li>
         <li className="dropdown">
           <Link to="/productos" className="menu-link">
-            Productos
+            Productos ▼
           </Link>
           <ul className="dropdown-content">
             <li>
