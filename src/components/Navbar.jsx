@@ -14,25 +14,27 @@ function Navbar() {
             Inicio
           </Link>
         </li>
-        <li>
+        <li className="dropdown">
           <Link to="/productos" className="menu-link">
             Productos
           </Link>
-        </li>
-        <li>
-          <Link to="/productos/Accessories" className="menu-link">
-            Accesorios
-          </Link>
-        </li>
-        <li>
-          <Link to="/productos/Books" className="menu-link">
-            Libros
-          </Link>
-        </li>
-        <li>
-          <Link to="/productos/Clothing" className="menu-link">
-            Ropa
-          </Link>
+          <ul className="dropdown-content">
+            <li>
+              <Link to="/productos/Accessories" className="menu-link-dropdown">
+                Accesorios
+              </Link>
+            </li>
+            <li>
+              <Link to="/productos/Books" className="menu-link-dropdown">
+                Libros
+              </Link>
+            </li>
+            <li>
+              <Link to="/productos/Clothing" className="menu-link-dropdown">
+                Ropa
+              </Link>
+            </li>
+          </ul>
         </li>
         <li>
           <Link to="/nosotros" className="menu-link">
