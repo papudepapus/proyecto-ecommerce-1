@@ -30,9 +30,9 @@ Clona el repositorio
 
 ## 🛠️ Configura Firebase
 
-- Crea un proyecto en Firebase Console
-- Crea un archivo .env con tus credenciales:
+Crea un proyecto en Firebase Console
 
+- Crea un archivo .env con tus credenciales:
 - VITE_FIREBASE_API_KEY=tu_api_key
 - VITE_FIREBASE_AUTH_DOMAIN=tu_auth_domain
 - VITE_FIREBASE_PROJECT_ID=tu_project_id
@@ -80,14 +80,14 @@ Utiliza CSS personalizado con:
 
 ## 📱 Rutas de la Aplicación
 
-/ - Página principal (catálogo)
-/productos - Catálogo completo
-/productos/:category - Filtrado por categoría
-/item/:id - Detalle del producto
-/carrito - Vista del carrito
-/checkout - Proceso de compra
-/nosotros - Información de la empresa
-/contact - Formulario de contacto
+- / - Página principal (catálogo)
+- /productos - Catálogo completo
+- /productos/:category - Filtrado por categoría
+- /item/:id - Detalle del producto
+- /carrito - Vista del carrito
+- /checkout - Proceso de compra
+- /nosotros - Información de la empresa
+- /contact - Formulario de contacto
 
 ## 🚀 Scripts Disponibles
 
