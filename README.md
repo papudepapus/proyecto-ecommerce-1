@@ -23,33 +23,33 @@ Una aplicación de comercio electrónico moderna construida con React, Firebase 
 
 Clona el repositorio
 
-git clone "https://github.com/papudepapus/proyecto-ecommerce-1.git"
-cd proyecto-ecommerce-1
+- git clone "https://github.com/papudepapus/proyecto-ecommerce-1.git"
+- cd proyecto-ecommerce-1
 
-npm install
+- npm install
 
 ## 🛠️ Configura Firebase
 
-Crea un proyecto en Firebase Console
-Crea un archivo .env con tus credenciales:
+- Crea un proyecto en Firebase Console
+- Crea un archivo .env con tus credenciales:
 
-VITE_FIREBASE_API_KEY=tu_api_key
-VITE_FIREBASE_AUTH_DOMAIN=tu_auth_domain
-VITE_FIREBASE_PROJECT_ID=tu_project_id
-VITE_FIREBASE_STORAGE_BUCKET=tu_storage_bucket
-VITE_FIREBASE_MESSAGING_SENDER_ID=tu_sender_id
-VITE_FIREBASE_APP_ID=tu_app_id
+- VITE_FIREBASE_API_KEY=tu_api_key
+- VITE_FIREBASE_AUTH_DOMAIN=tu_auth_domain
+- VITE_FIREBASE_PROJECT_ID=tu_project_id
+- VITE_FIREBASE_STORAGE_BUCKET=tu_storage_bucket
+- VITE_FIREBASE_MESSAGING_SENDER_ID=tu_sender_id
+- VITE_FIREBASE_APP_ID=tu_app_id
 
 ## 🚀 Inicia el servidor de desarrollo
 
-npm run dev
+- npm run dev
 
 ## 🗄️ Base de Datos
 
 La aplicación utiliza Firebase Firestore con las siguientes colecciones:
 
-productos: Catálogo de productos
-pedidos: Órdenes de compra
+- productos: Catálogo de productos
+- pedidos: Órdenes de compra
 
 {  
  id: "string",  
@@ -65,18 +65,18 @@ pedidos: Órdenes de compra
 
 El sistema de carrito incluye:
 
-Agregar productos con cantidad específica
-Persistencia en localStorage
-Cálculo automático de totales
-Vaciar carrito completo
+- Agregar productos con cantidad específica
+- Persistencia en localStorage
+- Cálculo automático de totales
+- Vaciar carrito completo
 
 ## 🎨 Sistema de Estilos
 
 Utiliza CSS personalizado con:
 
-Variables CSS para colores consistentes
-Diseño responsivo
-Componentes estilizados individualmente
+- Variables CSS para colores consistentes
+- Diseño responsivo
+- Componentes estilizados individualmente
 
 ## 📱 Rutas de la Aplicación
 
@@ -91,19 +91,20 @@ Componentes estilizados individualmente
 
 ## 🚀 Scripts Disponibles
 
-npm run dev # Servidor de desarrollo  
-npm run build # Build de producción  
-npm run preview # Preview del build  
-npm run lint # Linting con ESLint
+- npm run dev # Servidor de desarrollo
+- npm run build # Build de producción
+- npm run preview # Preview del build
+- npm run lint # Linting con ESLint
 
 ## 🤝 Contribuir
 
 Fork el proyecto
-Crea una rama para tu feature (git checkout -b feature/AmazingFeature)
-Commit tus cambios (git commit -m 'Add some AmazingFeature')
-Push a la rama (git push origin feature/AmazingFeature)
-Abre un Pull Request
+
+- Crea una rama para tu feature (git checkout -b feature/AmazingFeature)
+- Commit tus cambios (git commit -m 'Add some AmazingFeature')
+- Push a la rama (git push origin feature/AmazingFeature)
+- Abre un Pull Request
 
 📄 Licencia
 
-Este proyecto está bajo la Licencia MIT
+- Este proyecto está bajo la Licencia MIT
